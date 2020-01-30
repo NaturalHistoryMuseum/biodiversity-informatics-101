@@ -40,7 +40,7 @@ In the first part of this tutorial, we will import a list of invasive species in
 
 ##### 1. 1. Download the data
 
-Download the invasive alien species CSV [invasive-alien-species.csv](https://raw.githubusercontent.com/benscott/biodiversity-informatics-101/master/invasive-alien-species.csv).
+Download the invasive alien species CSV [invasive-alien-species.csv](https://raw.githubusercontent.com/NaturalHistoryMuseum/biodiversity-informatics-101/master/invasive-alien-species.csv).
 
 ##### 1.2 Open OpenRefine
 
@@ -151,7 +151,7 @@ In this part of the course, we will use the Python programming language to manip
 
 ##### 2.1 Open Jupyter notebook
 
-The Jupyter notebook is hosted online at https://mybinder.org/v2/gh/benscott/biodiversity-informatics-101/master?filepath=occurrences.ipynb
+The Jupyter notebook is hosted online at https://mybinder.org/v2/gh/NaturalHistoryMuseum/biodiversity-informatics-101/master?filepath=occurrences.ipynb
 
 Opening the notebook takes a little while, please be patient.
 
