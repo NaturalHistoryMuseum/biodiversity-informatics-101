@@ -40,7 +40,7 @@ In the first part of this tutorial, we will import a list of invasive species in
 
 ##### 1. 1. Download the data
 
-Download the invasive alien species CSV [invasive-alien-species.csv](https://raw.githubusercontent.com/benscott/biodiversity-informatics-101/master/invasive-alien-species.csv.).
+Download the invasive alien species CSV [invasive-alien-species.csv](https://raw.githubusercontent.com/benscott/biodiversity-informatics-101/master/invasive-alien-species.csv).
 
 ##### 1.2 Open OpenRefine
 
