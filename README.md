@@ -38,7 +38,7 @@ By the end of the class, students will have a basic understanding of:
 
    
 
-Please open your Scratchpads training site & login (the login link is at the top right of the page; username and password are provided on your handouts).
+Please open your Scratchpads training site & login (the login link is at the top right of the page; username and password will be provided by your instructor).
 
 
 
@@ -83,7 +83,7 @@ Once OpenRefine is running, a browser window should automatically open, and the 
 
 ##### 5. Name resolution
 
-*We want to ensure these are the currently accepted taxonomic names, so the next step is to validate the names, against a taxonomic name resolution service. Many online services provide this functionality, butin this example we will reconcile our names against WikiData.*  
+*We want to ensure these are the currently accepted taxonomic names, so the next step is to validate the names against a taxonomic name resolution service. Many online services provide this functionality, but in this example we will reconcile our names against WikiData.*  
 
 - Locate the field “Scientific name” and click on the arrow in the title.
 - Select “Reconcile” > “Start reconciling”
@@ -106,19 +106,20 @@ Once OpenRefine is running, a browser window should automatically open, and the 
 
 *A new column "taxon name" has been added showing the reconciled taxonomic name.*
 
-- For this new column, click on the arrow in the title.
+- For this new column, click on the arrow in the title
 - Select “Edit column” > “Rename this column”
 - Enter the new name as "Term name" and press "OK"
 - Again, click on the arrow in the title for this new column
 - Select “Edit column” > “Split into several columns”
-- Change the separator from "," to a single space. Press OK.
+- Deselect the option "Remove this column"
+- Change the separator from "," to a single space. Press OK
 
 *Two new columns have been created Term Name 1 and Term name 2, populated with the genus and species name.*
 
-- Locate the field “Term Name 1” and click on the arrow in the title.
+- Locate the field “Term Name 1” and click on the arrow in the title
 - Select “Edit column” > “Rename this column”
 - Enter the new name as "Unit name 1" and press "OK"
-- Locate the field “Term Name 2” and click on the arrow in the title.
+- Locate the field “Term Name 2” and click on the arrow in the title
 - Select “Edit column” > “Rename this column”
 - Enter the new name as "Unit name 2" and press "OK"
 
@@ -138,7 +139,7 @@ Once OpenRefine is running, a browser window should automatically open, and the 
 - Click "Taxonomy"
 - Click "Add vocabulary"
 - Enter a name for the vocabulary - e.g. "UK Invasive species"
-- Under biological classification select "Aldea/Fungi/Plants" 
+- Under biological classification select "Algea/Fungi/Plants" 
 - Click "Save"
 
 *We've created the taxonomy, now let's import the list of names.*
@@ -153,7 +154,7 @@ Once OpenRefine is running, a browser window should automatically open, and the 
 
 ### Part 2 - Import GBIF occurrences
 
-In the second part of this tutorial, we will import UK occurrence records for our 8 invasive species. These have been downloaded from GBIF, the Global Biodiversity Information Facility which aggregates and publishes biodiversity data from institutions across the world. It currently holds 1,391,094,316 occurrence records.
+In the second part of this tutorial, we will import UK occurrence records for our 8 invasive species. These records have been downloaded from GBIF, the Global Biodiversity Information Facility which aggregates biodiversity data from institutions across the world. It currently holds 1,391,094,316 occurrence records.
 
 GBIF data is provided as a DarwinCore Archive, a data standard for sharing specimen occurrence and observational records. 
 
@@ -161,7 +162,7 @@ In this part of the course, we will use the Python programming language to manip
 
 ##### 2.1 Open Jupyter notebook
 
-The Jupyter notebook is hosted online at [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NaturalHistoryMuseum/biodiversity-informatics-101/master?filepath=occurrences.ipynb)
+The Jupyter notebook is hosted online on Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NaturalHistoryMuseum/biodiversity-informatics-101/master?filepath=occurrences.ipynb)
 
 Opening the notebook takes a little while, please be patient.
 
