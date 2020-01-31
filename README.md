@@ -1,9 +1,19 @@
 # Biodiversity Informatics 101
 
-#### This class will familiarise participants with some of the platforms, tools and methodologies practised within the biodiversity informatics landscape.  
+| MSc title        | Taxonomy and Biodiversity |
+| Module           | Biodiversity 2: Applied   |
+| Document version | 1.0 (31/01/2020)          |
+| Author           | Ben Scott                 |
 
-#### Students will utilise a suite of freely available tools to parse open data sources, analyse and restructure the information, and publish their datasets online in forms that enable scientific reuse of the data.
+#### Duration
 
+ The class will run for a total of three hours.
+
+#### Scope and outputs
+
+###### This class will familiarise participants with some of the platforms, tools and methodologies practised within the biodiversity informatics landscape.  
+
+###### Students will utilise a suite of freely available tools to parse open data sources, analyse and restructure the information, and publish their datasets online in forms that enable scientific reuse of the data.
 
 
 By the end of the class, students will have a basic understanding of:
@@ -14,6 +24,16 @@ By the end of the class, students will have a basic understanding of:
 - How to use [WikiData](https://www.wikidata.org/wiki/Wikidata:Main_Page) to perform name reconciliation and name resolution
 - How to import data into a [Scratchpad](http://scratchpads.eu/).
 
+
+#### Resources to be used
+
+- [GBIF data portal](data.gbif.org)
+
+- [OpenRefine](openrefine.org)
+
+- [WikiData](https://www.wikidata.org/wiki/Wikidata:Main_Page)
+
+- [Scratchpads](http://scratchpads.eu/)
 
 
 #### To start:
