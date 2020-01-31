@@ -6,7 +6,7 @@
 | Module           | Biodiversity 2: Applied   |
 | Document version | 1.0 (31/01/2020)          |
 | Author           | Ben Scott                 |
-| Duration         | 3 hours                   |
+| Duration         | 90 minutes                |
 
 
 #### Scope and outputs
