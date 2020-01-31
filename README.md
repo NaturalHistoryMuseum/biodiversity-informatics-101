@@ -32,7 +32,7 @@ By the end of the class, students will have a basic understanding of:
 
 2. Each pair has its own Scratchpads training site:
 
-   http://mscnhm**[x]**.taxon.name
+   http://mscnhm[x].taxon.name
 
    *Replace x with the number on your handouts*
 
