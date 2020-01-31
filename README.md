@@ -1,8 +1,8 @@
 # Biodiversity Informatics 101
 
-###### This class will familiarise participants with some of the platforms, tools and methodologies practised within the biodiversity informatics landscape.  
+#### This class will familiarise participants with some of the platforms, tools and methodologies practised within the biodiversity informatics landscape.  
 
-###### Students will utilise a suite of freely available tools to parse open data sources, analyse and restructure the information, and publish their datasets online in forms that enable scientific reuse of the data.
+#### Students will utilise a suite of freely available tools to parse open data sources, analyse and restructure the information, and publish their datasets online in forms that enable scientific reuse of the data.
 
 
 
