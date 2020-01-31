@@ -38,7 +38,7 @@ By the end of the class, students will have a basic understanding of:
 
    
 
-Please open your Scratchpads training site & login (the login link is at the top right of the page; username and password are provided on your handouts).
+Please open your Scratchpads training site & login (the login link is at the top right of the page; username and password will be provided by your instructor).
 
 
 
@@ -83,7 +83,7 @@ Once OpenRefine is running, a browser window should automatically open, and the 
 
 ##### 5. Name resolution
 
-*We want to ensure these are the currently accepted taxonomic names, so the next step is to validate the names, against a taxonomic name resolution service. Many online services provide this functionality, butin this example we will reconcile our names against WikiData.*  
+*We want to ensure these are the currently accepted taxonomic names, so the next step is to validate the names against a taxonomic name resolution service. Many online services provide this functionality, but in this example we will reconcile our names against WikiData.*  
 
 - Locate the field “Scientific name” and click on the arrow in the title.
 - Select “Reconcile” > “Start reconciling”
