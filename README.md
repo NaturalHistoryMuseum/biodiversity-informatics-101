@@ -1,9 +1,19 @@
 # Biodiversity Informatics 101
 
-###### This class will familiarise participants with some of the platforms, tools and methodologies practised within the biodiversity informatics landscape.  
+|     |     |
+| --- | --- |
+| MSc title        | Taxonomy and Biodiversity |
+| Module           | Biodiversity 2: Applied   |
+| Document version | 1.0 (31/01/2020)          |
+| Author           | Ben Scott                 |
+| Duration         | 3 hours                   |
 
-###### Students will utilise a suite of freely available tools to parse open data sources, analyse and restructure the information, and publish their datasets online in forms that enable scientific reuse of the data.
 
+#### Scope and outputs
+
+##### This class will familiarise participants with some of the platforms, tools and methodologies practised within the biodiversity informatics landscape.  
+
+##### Students will utilise a suite of freely available tools to parse open data sources, analyse and restructure the information, and publish their datasets online in forms that enable scientific reuse of the data.
 
 
 By the end of the class, students will have a basic understanding of:
@@ -200,23 +210,3 @@ References
 [1]  (https://www.gov.uk/government/consultations/invasive-alien-species-management-measures-for-widely-spread-species-in-england-and-wales).
 
 [2] https://www.cabi.org/isc/datasheet/20761
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
