@@ -1,5 +1,7 @@
 # Biodiversity Informatics 101
 
+|     |     |
+| --- | --- |
 | MSc title        | Taxonomy and Biodiversity |
 | Module           | Biodiversity 2: Applied   |
 | Document version | 1.0 (31/01/2020)          |
