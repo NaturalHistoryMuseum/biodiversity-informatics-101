@@ -138,7 +138,7 @@ Once OpenRefine is running, a browser window should automatically open, and the 
 - Click "Taxonomy"
 - Click "Add vocabulary"
 - Enter a name for the vocabulary - e.g. "UK Invasive species"
-- Under biological classification select "Aldea/Fungi/Plants" 
+- Under biological classification select "Algea/Fungi/Plants" 
 - Click "Save"
 
 *We've created the taxonomy, now let's import the list of names.*
