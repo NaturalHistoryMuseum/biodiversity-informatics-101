@@ -161,7 +161,7 @@ In this part of the course, we will use the Python programming language to manip
 
 ##### 2.1 Open Jupyter notebook
 
-The Jupyter notebook is hosted online at [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NaturalHistoryMuseum/biodiversity-informatics-101/master?filepath=occurrences.ipynb)
+The Jupyter notebook is hosted online on Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NaturalHistoryMuseum/biodiversity-informatics-101/master?filepath=occurrences.ipynb)
 
 Opening the notebook takes a little while, please be patient.
 
