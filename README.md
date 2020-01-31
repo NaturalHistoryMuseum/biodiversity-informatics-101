@@ -154,7 +154,7 @@ Once OpenRefine is running, a browser window should automatically open, and the 
 
 ### Part 2 - Import GBIF occurrences
 
-In the second part of this tutorial, we will import UK occurrence records for our 8 invasive species. These have been downloaded from GBIF, the Global Biodiversity Information Facility which aggregates and publishes biodiversity data from institutions across the world. It currently holds 1,391,094,316 occurrence records.
+In the second part of this tutorial, we will import UK occurrence records for our 8 invasive species. These records have been downloaded from GBIF, the Global Biodiversity Information Facility which aggregates biodiversity data from institutions across the world. It currently holds 1,391,094,316 occurrence records.
 
 GBIF data is provided as a DarwinCore Archive, a data standard for sharing specimen occurrence and observational records. 
 
