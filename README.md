@@ -157,7 +157,7 @@ Opening the notebook takes a little while, please be patient.
 
 ##### 2.2 Run the code in the notebook
 
-This will happen automatically when the notebook is first opened.
+- Select "Cell" > "Run all"
 
 ##### 2.3 Download localities CSV
 
