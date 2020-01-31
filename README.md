@@ -106,19 +106,20 @@ Once OpenRefine is running, a browser window should automatically open, and the 
 
 *A new column "taxon name" has been added showing the reconciled taxonomic name.*
 
-- For this new column, click on the arrow in the title.
+- For this new column, click on the arrow in the title
 - Select “Edit column” > “Rename this column”
 - Enter the new name as "Term name" and press "OK"
 - Again, click on the arrow in the title for this new column
 - Select “Edit column” > “Split into several columns”
-- Change the separator from "," to a single space. Press OK.
+- Deselect the option "Remove this column"
+- Change the separator from "," to a single space. Press OK
 
 *Two new columns have been created Term Name 1 and Term name 2, populated with the genus and species name.*
 
-- Locate the field “Term Name 1” and click on the arrow in the title.
+- Locate the field “Term Name 1” and click on the arrow in the title
 - Select “Edit column” > “Rename this column”
 - Enter the new name as "Unit name 1" and press "OK"
-- Locate the field “Term Name 2” and click on the arrow in the title.
+- Locate the field “Term Name 2” and click on the arrow in the title
 - Select “Edit column” > “Rename this column”
 - Enter the new name as "Unit name 2" and press "OK"
 
