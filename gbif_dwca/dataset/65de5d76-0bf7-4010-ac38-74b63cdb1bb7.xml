@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="65de5d76-0bf7-4010-ac38-74b63cdb1bb7"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/udqhi9</alternateIdentifier>
+        <alternateIdentifier>65de5d76-0bf7-4010-ac38-74b63cdb1bb7</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr1315</alternateIdentifier>
+        <alternateIdentifier>c793afd3-5a15-3298-8aac-abc3cf906a93</alternateIdentifier>
+    <title>Leicestershire &amp; Rutland Coleoptera</title>
+    <creator>
+<organizationName>Leicestershire and Rutland Environmental Records Centre</organizationName>    <address>
+<deliveryPoint>County Hall</deliveryPoint><city>Glenfield</city><postalCode>LE3 8RA</postalCode>    </address>
+<phone>0116 3054108</phone><electronicMailAddress>LRERC@leics.gov.uk</electronicMailAddress><onlineUrl>https://www.leicestershire.gov.uk/environment-and-planning/planning/planning-and-ecology</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Leicestershire and Rutland Environmental Records Centre</organizationName>    <address>
+<deliveryPoint>County Hall</deliveryPoint><city>Glenfield</city><postalCode>LE3 8RA</postalCode>    </address>
+<phone>0116 3054108</phone><electronicMailAddress>LRERC@leics.gov.uk</electronicMailAddress><onlineUrl>https://www.leicestershire.gov.uk/environment-and-planning/planning/planning-and-ecology</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2017-06-16
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Coleoptera.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr1315</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Leicestershire &amp; Rutland (VC55).</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-1.631</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-0.447</eastBoundingCoordinate>
+                      <northBoundingCoordinate>52.911</northBoundingCoordinate>
+                      <southBoundingCoordinate>52.37</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1782-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2007-11-02
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <purpose>
+          <para>Several, including casual recording and specific surveys.</para>
+      </purpose>
+      <contact>
+    <individualName>
+          <surName>Kirsty Gamble</surName>
+    </individualName>
+<electronicMailAddress>planningecology@leics.gov.uk</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Various.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>National expert.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-02-02T18:33:27Z</dateStamp>
+      <citation>Leicestershire and Rutland Environmental Records Centre (2017). Leicestershire &amp; Rutland Coleoptera. Occurrence dataset https://doi.org/10.15468/udqhi9 accessed via GBIF.org on 2021-02-02.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/Leics+and+rutland+compressed+logo.jpg</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

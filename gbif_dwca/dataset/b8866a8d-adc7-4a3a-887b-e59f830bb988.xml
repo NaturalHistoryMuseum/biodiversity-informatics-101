@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="b8866a8d-adc7-4a3a-887b-e59f830bb988"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/rhg0pc</alternateIdentifier>
+        <alternateIdentifier>b8866a8d-adc7-4a3a-887b-e59f830bb988</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr1225</alternateIdentifier>
+        <alternateIdentifier>8cc65076-9e06-3242-8f3c-92c6c5de27eb</alternateIdentifier>
+    <title>INNS records held by BIS in Powys and Brecon Beacons National Park</title>
+    <creator>
+<organizationName>BIS for Powys &amp; Brecon Beacons National Park</organizationName>    <address>
+<deliveryPoint>Unit 4</deliveryPoint><city>Brecon</city><administrativeArea>Powys</administrativeArea><postalCode>LD3 7LB</postalCode>    </address>
+<phone>01874 610881</phone><electronicMailAddress>info@bis.org.uk</electronicMailAddress><onlineUrl>http://www.bis.org.uk/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>BIS for Powys &amp; Brecon Beacons National Park</organizationName>    <address>
+<deliveryPoint>Unit 4</deliveryPoint><city>Brecon</city><administrativeArea>Powys</administrativeArea><postalCode>LD3 7LB</postalCode>    </address>
+<phone>01874 610881</phone><electronicMailAddress>info@bis.org.uk</electronicMailAddress><onlineUrl>http://www.bis.org.uk/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2020-10-27
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>INNS records collated and digitised by BIS.
+Contact BIS for further information or go to website www.bis.org.uk for County recorder contacts.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr1225</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Area covered is Powys and Brecon Beacons National Park</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-4.131</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-2.219</eastBoundingCoordinate>
+                      <northBoundingCoordinate>53.267</northBoundingCoordinate>
+                      <southBoundingCoordinate>51.73</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1882-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2020-10-18
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <purpose>
+          <para>Collated for nature conservation and management.</para>
+      </purpose>
+      <contact>
+    <individualName>
+<givenName>Jo</givenName>          <surName>Milborrow</surName>
+    </individualName>
+<positionName>editor</positionName><electronicMailAddress>info@bis.org.uk</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>From field observations and surveys.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>Records are validated for geographical area on import to BIS database. BIS makes every effort to exchange with county recorders for verification but due to the historical nature of this dataset some records remain unverified. Data will have been collected by local experts, ecological consultants, ecologists and members of the public.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-02-02T18:33:31Z</dateStamp>
+      <citation>BIS for Powys &amp; Brecon Beacons National Park (2020). INNS records held by BIS in Powys and Brecon Beacons National Park. Occurrence dataset https://doi.org/10.15468/rhg0pc accessed via GBIF.org on 2021-02-02.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/BISLogo.jpg</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

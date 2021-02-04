@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="2e4cc37b-302e-4f1b-bbbb-1f674ff90e14"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/jxbhqx</alternateIdentifier>
+        <alternateIdentifier>https://ipt.gbif.no/resource?r=biofokus</alternateIdentifier>
+        <alternateIdentifier>https://data.gbif.no/ipt/resource?r=biofokus</alternateIdentifier>
+        <alternateIdentifier>http://data.gbif.no/ipt/resource?r=biofokus</alternateIdentifier>
+        <alternateIdentifier>http://gbif.no/ipt/resource.do?r=biofokus</alternateIdentifier>
+        <alternateIdentifier>2e4cc37b-302e-4f1b-bbbb-1f674ff90e14</alternateIdentifier>
+        <alternateIdentifier>14367</alternateIdentifier>
+    <title>BioFokus</title>
+    <creator>
+    <individualName>
+<givenName>Terje</givenName>          <surName>Blindheim</surName>
+    </individualName>
+<organizationName>BioFokus</organizationName><positionName>Manager</positionName>    <address>
+<deliveryPoint>Gaustadalléen 21</deliveryPoint><city>Oslo</city><postalCode>0349</postalCode><country>NORWAY</country>    </address>
+<phone>0047 9955 0257</phone><electronicMailAddress>terje@biofokus.no</electronicMailAddress><onlineUrl>http://www.biofokus.no</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Terje</givenName>          <surName>Blindheim</surName>
+    </individualName>
+<organizationName>BioFokus</organizationName><positionName>Manager</positionName>    <address>
+<deliveryPoint>Gaustadalléen 21</deliveryPoint><city>Oslo</city><postalCode>0349</postalCode><country>NORWAY</country>    </address>
+<phone>0047 9955 0257</phone><electronicMailAddress>terje@biofokus.no</electronicMailAddress><onlineUrl>http://www.biofokus.no</onlineUrl>    </metadataProvider>
+      <pubDate>
+      2021-02-02
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>BioFokus is a non-profit organization for providing biodiversity survey information on biological diversity to decition makers and the public in Norway. BioFokus contributes to a knowledge-based management of Norwegian nature. BioFokus focuses on field work to secure updated and relevant data on botany, zoology, ecology, and survey for respective areas. A high level of competences are a pre-requisite for quality registration and reporting of biodiversity data. BioFokus employees cover a wide range of species-groups and have broad understanding of ecology in the respective nature types, including forest, cultural landscapes and fresh water.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://www.biofokus.no</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Norway</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>0</westBoundingCoordinate>
+                      <eastBoundingCoordinate>35</eastBoundingCoordinate>
+                      <northBoundingCoordinate>72</northBoundingCoordinate>
+                      <southBoundingCoordinate>56</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <purpose>
+          <para>BioFokus skal tilrettelegge informasjon om biologisk mangfold for beslutningstakere, samt formidle kunnskap innen fagfeltet bevaringsbiologi.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>daily</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+<organizationName>GBIF Norway</organizationName>    <address>
+<deliveryPoint>Sars gate 1</deliveryPoint><city>Oslo</city><administrativeArea>Norway</administrativeArea><postalCode>0562</postalCode><country>NORWAY</country>    </address>
+<electronicMailAddress>helpdesk@gbif.no</electronicMailAddress><onlineUrl>https://www.gbif.no</onlineUrl>      </contact>
+      <contact>
+    <individualName>
+<givenName>Terje</givenName>          <surName>Blindheim</surName>
+    </individualName>
+<organizationName>BioFokus</organizationName><positionName>Manager</positionName>    <address>
+<deliveryPoint>Gaustadalléen 21</deliveryPoint><city>Oslo</city><postalCode>0349</postalCode><country>NORWAY</country>    </address>
+<phone>0047 9955 0257</phone><electronicMailAddress>terje@biofokus.no</electronicMailAddress><onlineUrl>http://www.biofokus.no</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-02-02T18:33:27Z</dateStamp>
+      <citation>Blindheim T (2021). BioFokus. Version 1.1634. BioFokus. Occurrence dataset https://doi.org/10.15468/jxbhqx accessed via GBIF.org on 2021-02-02.</citation>
+              <resourceLogoUrl>https://ipt.gbif.no/logo.do?r=biofokus</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

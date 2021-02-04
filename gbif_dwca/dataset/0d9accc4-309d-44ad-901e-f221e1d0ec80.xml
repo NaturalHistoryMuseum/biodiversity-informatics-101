@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="0d9accc4-309d-44ad-901e-f221e1d0ec80"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/mopwow</alternateIdentifier>
+        <alternateIdentifier>0d9accc4-309d-44ad-901e-f221e1d0ec80</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr1148</alternateIdentifier>
+        <alternateIdentifier>feacc905-5d90-3443-a5e9-11b0f08823bd</alternateIdentifier>
+    <title>Isle of Man wildlife records from 01/01/2000 to 13/02/2017</title>
+    <creator>
+<organizationName>Manx Biological Recording Partnership</organizationName>    <address>
+<deliveryPoint>Department of Environment, Food and Agriculture, Thie Slieau Whallian</deliveryPoint><city>Foxdale Road, St. Johns</city><administrativeArea>Isle of Man</administrativeArea><postalCode>IM4 3AS</postalCode>    </address>
+<electronicMailAddress>philippa.tomlinson@gov.im</electronicMailAddress><onlineUrl>http://www.manxbiodiversity.org/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Manx Biological Recording Partnership</organizationName>    <address>
+<deliveryPoint>Department of Environment, Food and Agriculture, Thie Slieau Whallian</deliveryPoint><city>Foxdale Road, St. Johns</city><administrativeArea>Isle of Man</administrativeArea><postalCode>IM4 3AS</postalCode>    </address>
+<electronicMailAddress>philippa.tomlinson@gov.im</electronicMailAddress><onlineUrl>http://www.manxbiodiversity.org/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2020-09-08
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>This dataset comprises all terrestrial and marine wildlife records, from a wide variety of sources, recorded between 1st January 2000 to 13th February 2017. The database comprises data collated separately by the three main partners: Manx National Heritage (MNH), Manx Wildlife Trust (MWT) and Department of Environment, Food and Agriculture, Isle of Man Government (DEFA).  Data from 5 surveys within this time period have not been included but will be added as soon as issues have been addressed.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr1148</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>VC 71 Isle of Man and its territorial waters to 12 miles. May include marine records beyond the 12 miles. Many records have been recorded at six figure grid-reference resolution. Botanical records and non-avain vertebrates have a particularly good coverage across the island. Avian records are managed  comprehensively by Manx Birdlife http://manxbirdlife.im although this dataset does contain some bird records.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-4.833</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-3.203</eastBoundingCoordinate>
+                      <northBoundingCoordinate>55.962</northBoundingCoordinate>
+                      <southBoundingCoordinate>54.048</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2000-01-03
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2016-12-12
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <purpose>
+          <para>The purpose for the collection of the bulk of this data has been to gather information for the use of the three main partners (Manx Wildlife Trust, Manx National Heritage and the Isle of Man Governement) to carry out their functions in protecting the natural environment of the Isle of Man. This includes site surveys for monitoring and management; species surveys for monitoring and BAPs. There are also casual sightings made by staff and records submitted by the public via email and online recording.</para>
+      </purpose>
+      <contact>
+    <individualName>
+<givenName>Philippa</givenName>          <surName>Tomlinson</surName>
+    </individualName>
+<electronicMailAddress>Philippa.Tomlinson@gov.im</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Various methods of data capture, either depending on the survey methodology or the route from field recorder. Records are gathered by MBRP Partner organisations. Most data entry is from recording cards or via spreadsheets. All our records are collated into a networked Recorder6 (dictionary version 3B) database.
+ 
+ Records have come from a variety of sources and the validation and verification processes have not been standardised although verification by group validators and county recorders has been carried out where possible.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>Most MBRP records have come from expert determiners and experienced naturalists but a systematic species verification process has only carried out for some taxonomic groups.  This work is ongoing. MBRP relies on both the honesty and accuracy of recorders, but cannot rule out instances of either deliberate or accidental misidentification.  Given the levels of checking both before and after record-entry, and the frequent use of expert determiners, we are confident that such errors will be minimal and unlikely to affect the integrity of the dataset as a whole.
+ 
+ Records which did not pass the validation checks in NBN Export Format Addin during export from Recorder6 will not have been included (these are all confidential records).
+ 
+ All records in this dataset have passed the NBN Record Cleaner validation.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-02-02T18:33:29Z</dateStamp>
+      <citation>Manx Biological Recording Partnership (2020). Isle of Man wildlife records from 01/01/2000 to 13/02/2017. Occurrence dataset https://doi.org/10.15468/mopwow accessed via GBIF.org on 2021-02-02.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/ManxBiodiversitylogo.png</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

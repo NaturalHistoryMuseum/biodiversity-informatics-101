@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="10.15468/dl.t7jqc2"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+        <alternateIdentifier>0181025-200613084148143</alternateIdentifier>
+    <title>GBIF Occurrence Download 10.15468/dl.t7jqc2</title>
+    <creator>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2021-02-02
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>A dataset containing all occurrences available in GBIF matching the query:
+{
+  &quot;and&quot; : [
+    &quot;Country is United Kingdom of Great Britain and Northern Ireland&quot;,
+    &quot;TaxonKey is Harmonia axyridis (Pallas, 1773)&quot;
+  ]
+}
+The dataset includes records from the following constituent datasets. The full metadata for each constituent is also included in this archive:
+1 records from Species found in the NOMS estate 2005 - Present
+1 records from Data from Defra Family Organisations supplied to Staffordshire Ecological Record
+1 records from NRW Regional Data: South East Wales Non-sensitive species
+1 records from Derek Lott Coleoptera Dataset
+1 records from National Trust for Scotland Species Records
+1 records from Norfolk and Suffolk Broads Invertebrate Data 2007-2008
+1 records from Montgomeryshire Wildlife Trust records held by BIS
+1 records from BioFokus
+1 records from Tullie House Museum Natural History Collections
+1 records from Nottingham Urban Wildlife Scheme iRecord download 2014 - 2017
+1 records from Miscellaneous records held on the Cofnod database
+1 records from Leicestershire &amp; Rutland Coleoptera
+1 records from MoJ BioBlitz August 2018
+1 records from MoJ BioBlitz April - May 2017
+2 records from Patrick Roper’s Notebooks
+2 records from Woodmeadow Invertebrate Survey 2016
+2 records from National Invasive Species Database
+2 records from Records from the RHS insect reference collection
+3 records from NRW Regional Data: North Wales
+3 records from Invertebrate records from sites that are mainly across Scotland
+3 records from Manx Biological Recording Partnership UNVERIFIED Isle of Man records between 14/02/2017 and 05/09/2019
+3 records from Woodmeadow Invertebrate Survey 2014
+3 records from Argyll Biological Records Dataset
+3 records from Yorkshire Wildlife Trust - Non-sensitive records from all taxonomic groups
+3 records from naturgucker
+4 records from Woodmeadow Invertebrate Survey 2017
+4 records from Manx Biological Recording Partnership VERIFIED Isle of Man records between 14/02/2017 and 05/09/2019
+5 records from SER Site-based Surveys
+5 records from Earth Guardians Weekly Feed
+7 records from Staffordshire Wildlife Trust Nature Reserves Inventory
+8 records from Sheffield and Rotherham Wildlife Trust - Records
+8 records from Isle of Man wildlife records from 01/01/2000 to 13/02/2017
+10 records from Woodmeadow Invertebrate Survey 2018
+10 records from Cumbria Non Native Invasive Species
+12 records from SEWBReC Beetles (South East Wales)
+16 records from Welsh Invertebrate Database (WID)
+16 records from HBRG Insects Dataset
+17 records from SER Species-based Surveys
+19 records from Natural History Museum (London) Collection Specimens
+21 records from RHS monitoring of native and naturalised plants and animals at its gardens and surrounding areas
+22 records from Miscellaneous records held by BIS
+24 records from iRecord Surveys
+25 records from Invertebrate Common Standards Monitoring and ISIS Test Data
+34 records from International Barcode of Life project (iBOL)
+36 records from Observation.org, Nature data from around the World
+50 records from NBIS Records to December 2016
+71 records from Rotherham Biological Records Centre - Non-sensitive Records from all taxonomic groups
+76 records from Records of Invasive Non Native Species held on the Cofnod database
+100 records from INNS Data: All Taxa (West Wales)
+106 records from Merseyside BioBank Active Naturalists (unverified)
+120 records from Merseyside BioBank Active Naturalists (verified)
+131 records from BRERC species records from all years at full resolution excluding Notable Species within the last 10 years
+139 records from Merseyside BioBank (verified)
+201 records from National Trust Species Records
+208 records from INNS records held by BIS in Powys and Brecon Beacons National Park
+248 records from Coleoptera: Records for Kent
+306 records from Merseyside BioBank (unverified)
+398 records from BRERC Notable Species records within the last 10 years
+400 records from Steve Lane - Warwickshire dataset and Personal records from various vice-counties
+402 records from Shropshire Ecological Data Network database
+418 records from North Merseyside Local Species Data (DEFRA Grant 23169)
+530 records from LERN Records
+536 records from An &apos;as-complete-as-possible&apos; Sussex Beetle Records dataset covering the period to March 2017
+601 records from Suffolk Biodiversity Information Service (SBIS) Dataset
+692 records from RECORD Coccinellidae Data
+711 records from INNS Data: All Taxa (South East Wales)
+1292 records from All taxa records for Leicestershire and Rutland
+4192 records from iNaturalist Research-grade Observations
+25365 records from Ladybird Survey of the UK
+33642 records from UK Ladybird Survey data from iRecord
+</para>
+    </abstract>
+      <contact>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-02-02T18:33:32Z</dateStamp>
+      <citation identifier="10.15468/dl.t7jqc2">GBIF Occurrence Download 10.15468/dl.t7jqc2</citation>
+              <physical>
+                  <objectName>Darwin Core Archive</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>Darwin Core Archive</formatName>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">https://api.gbif.org/v1/occurrence/download/request/0181025-200613084148143.zip</url>
+                      </online>
+                  </distribution>
+              </physical>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

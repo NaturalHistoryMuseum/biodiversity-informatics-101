@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="5e43a220-a91d-485b-b608-58fd22693be7"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/i46are</alternateIdentifier>
+        <alternateIdentifier>5e43a220-a91d-485b-b608-58fd22693be7</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr855</alternateIdentifier>
+        <alternateIdentifier>5ddccad6-a702-37c1-89fc-685bad29e528</alternateIdentifier>
+    <title>All taxa records for Leicestershire and Rutland</title>
+    <creator>
+<organizationName>NatureSpot</organizationName>    <address>
+<deliveryPoint>71 Church Lane</deliveryPoint><city>Leicestershire and Rutland</city><postalCode>LE60JF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>info@naturespot.org.uk</electronicMailAddress><onlineUrl>https://www.naturespot.org.uk/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>NatureSpot</organizationName>    <address>
+<deliveryPoint>71 Church Lane</deliveryPoint><city>Leicestershire and Rutland</city><postalCode>LE60JF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>info@naturespot.org.uk</electronicMailAddress><onlineUrl>https://www.naturespot.org.uk/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2020-09-07
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Data collected from local naturalists through NatureSpot&amp;#39;s recording website since its establishment in 2009. Records include some data collected prior to 2009 but submitted post 2009. The dataset includes over 120,000 records of over 5,000 species and covering most taxon groups, all from Leicestershire and Rutland.
+Additional_information</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr855</url>
+          </online>
+      </distribution>
+      <purpose>
+          <para>The record data was collected to help improve understanding of the distribution of species across VC55. The data is shared annually with County Recorders, The Leicestershire and Rutland Environmental Records Centre and with some land managers (where data relates to land they own or manage).</para>
+      </purpose>
+      <contact>
+    <individualName>
+          <surName>David Nicholls</surName>
+    </individualName>
+<electronicMailAddress>dnicholls@naturespot.org.uk</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>NatureSpot&apos;s online recording system is part of the iRecord family and includes the same validation checks on submission. Recorders need to be registered with NatureSpot prior to submission and provide their full contact details. Data entry is similar to that on iRecord with date, grid reference and species selection controlled through preset menus and format requirements. All records are individually checked by NatureSpot&apos;s verification team, consulting with County Recorders and other experts as necessary. Only records that have been verified as accepted are included in the dataset.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>The full dataset has been checked with NBN&apos;s Record Cleaner and meets these requirements. All data is believed to be fully validated. As the records were submitted by local naturalists with varying degrees of specialist knowledge and expertise, every submission has been checked and given a verification rating. The majority of records have images submitted with them which in many cases provides evidence to support the identification. Only records considered to be correctly identified have been included in the dataset.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-02-02T18:33:32Z</dateStamp>
+      <citation>NatureSpot (2020). All taxa records for Leicestershire and Rutland. Occurrence dataset https://doi.org/10.15468/i46are accessed via GBIF.org on 2021-02-02.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/NatureSpotLogo.jpg</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

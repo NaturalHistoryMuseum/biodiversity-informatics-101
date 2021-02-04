@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="7d17a2b2-8751-41b5-ac9b-48effc1ea236"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/h1ln5p</alternateIdentifier>
+        <alternateIdentifier>7d17a2b2-8751-41b5-ac9b-48effc1ea236</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr938</alternateIdentifier>
+        <alternateIdentifier>8f35fad3-8b80-3d52-a5dd-8f925a22cb08</alternateIdentifier>
+    <title>BRERC species records from all years at full resolution excluding Notable Species within the last 10 years</title>
+    <creator>
+<organizationName>Bristol Regional Environmental Records Centre</organizationName>    <address>
+<deliveryPoint>Blaise Castle Museum, Henbury Road</deliveryPoint><city>Bristol</city><postalCode>BS10 7QS</postalCode><country>UNITED_KINGDOM</country>    </address>
+<phone>0117 9349833</phone><electronicMailAddress>dataenquiries@brerc.org.uk</electronicMailAddress><onlineUrl>http://www.brerc.org.uk/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Bristol Regional Environmental Records Centre</organizationName>    <address>
+<deliveryPoint>Blaise Castle Museum, Henbury Road</deliveryPoint><city>Bristol</city><postalCode>BS10 7QS</postalCode><country>UNITED_KINGDOM</country>    </address>
+<phone>0117 9349833</phone><electronicMailAddress>dataenquiries@brerc.org.uk</electronicMailAddress><onlineUrl>http://www.brerc.org.uk/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2019-11-05
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Species records at full resolution as held at BRERC excluding; Notable Species within the last 10 years, sensitive records, and those without NHM Taxon Version Keys (species name code)
+Recorder details held at BRERC. BRERC policy is not to publish personal details including names or addresses. Please let BRERC know if you come across any names or addresses and they will be removed (please note the record id number)</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr938</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>West of England which includes North Somerset, Bristol, South Gloucestershire and Bath &amp; North East Somerset unitary authority areas</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-3.079</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-2.217</eastBoundingCoordinate>
+                      <northBoundingCoordinate>51.653</northBoundingCoordinate>
+                      <southBoundingCoordinate>51.289</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1491-11-12
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2019-07-22
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <purpose>
+          <para>Professional and amateur provided records collated as a central repository by BRERC for wider use</para>
+      </purpose>
+      <contact>
+    <individualName>
+          <surName>BRERC Manager - Tim Corner</surName>
+    </individualName>
+<electronicMailAddress>info@brerc.org.uk</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Records captured from multiple providers using a wide variety of collection and data capture methods.  For example: ad hoc records from the public; survey reports from ecological consultancies in relation to planning and development control; data from community groups; educational research; transect data from national schemes and societies; species and habitat management plans, reports and monitoring.  Data may be captured directly by BRERC, via BRERC on-line recording facilities, various apps from recording schemes and initiatives, submitted by recorders and organisations directly or indirectly using their own data capture tools, documents, photographs and diaries.  Data is managed via various spreadsheets, bespoke relational databases and Geographic Information Systems (GIS).</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>To ensure the quality of species data held by BRERC, all submitted information undergoes rigorous validation and verification procedures. Taxa new to the region or known to be difficult to determine are automatically highlighted, the following guidelines are followed -  https://www.brerc.org.uk/dataquality.htm. If necessary data is referred to other local experts for verification. Records are entered with the correct scientific nomenclature in accordance with the nationally recognised Species Dictionary used by the National Biodiversity Network (NBN). The BRERC database is modified and updated to reflect changes in both the current preferred nomenclature of different taxonomic groups, and their conservation status. BRERC data is uploaded to the NBN Atlas; and feedback from external specialists often allows further refinements to be made to our data.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-02-02T18:33:30Z</dateStamp>
+      <citation>Bristol Regional Environmental Records Centre (2019). BRERC species records from all years at full resolution excluding Notable Species within the last 10 years. Occurrence dataset https://doi.org/10.15468/h1ln5p accessed via GBIF.org on 2021-02-02.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/BRERCorganization_logo.png</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

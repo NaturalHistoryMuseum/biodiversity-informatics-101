@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="efb3f1a0-43d5-4ae6-a58f-4fd61043756a"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/a5y1cz</alternateIdentifier>
+        <alternateIdentifier>efb3f1a0-43d5-4ae6-a58f-4fd61043756a</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr681</alternateIdentifier>
+        <alternateIdentifier>d8884e19-3323-3cde-b448-560e96477f20</alternateIdentifier>
+        <alternateIdentifier>14756</alternateIdentifier>
+    <title>National Trust for Scotland Species Records</title>
+    <creator>
+<organizationName>National Trust for Scotland</organizationName>    <address>
+<deliveryPoint>Hermiston Quay, 5 Cultins Rd</deliveryPoint><city>Edinburgh</city><postalCode>EH11 4DF</postalCode>    </address>
+<onlineUrl>http://www.nts.org.uk/Home/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>National Trust for Scotland</organizationName>    <address>
+<deliveryPoint>Hermiston Quay, 5 Cultins Rd</deliveryPoint><city>Edinburgh</city><postalCode>EH11 4DF</postalCode>    </address>
+<onlineUrl>http://www.nts.org.uk/Home/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2019-10-08
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Species records from National Trust for Scotland (NTS) properties.
+Surveys were carried out by staff, volunteers or consultants to assist with site management. In addition we have received casual records from staff and visitors and collated historical data from other reports, articles and books.</para>
+    </abstract>
+      <additionalInfo>
+          <para>Any queries for additional information should be directed to biologicalrecords@nts.org.uk</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr681</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Scotland. This dataset has been collated from NTS property wildlife records. There is likely to be a recording bias in favour of the more accessible areas and where notable species are known to be found. As this dataset includes a wide range of surveys and casual records, grid reference resolution varies throughout. Grid references may refer to a grid square or be a centroid.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-8.665</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-1.559</eastBoundingCoordinate>
+                      <northBoundingCoordinate>59.561</northBoundingCoordinate>
+                      <southBoundingCoordinate>54.869</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1870-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2018-10-05
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <contact>
+    <individualName>
+<givenName>Christine</givenName>          <surName>Oines</surName>
+    </individualName>
+<electronicMailAddress>BiologicalRecords@nts.org.uk</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Various survey methods have been used as appropriate for differing target species and survey aims. We have also collated historical data from reports, articles and books. Records have been entered by NTS staff and volunteers, and records were also entered on our behalf by NESBReC. Surveys were carried out by staff, volunteers or consultants to assist with site management. In addition we have received casual records from staff and visitors and collated historical data from other reports, articles and books.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>Many high quality surveys completed by expert consultants and volunteers, also by trained NTS countryside staff. A program of verification is being undertaken on this dataset with over 40,000 records verified by county recorders to date. All other records are tagged as &apos;Unconfirmed&apos;. This data should not be regarded as having comprehensive geographic or taxonomic coverage. Data should be checked against original sources before use in contentious circumstances. Some data may be duplicated with records also held by schemes, societies and local record centres.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-02-02T18:33:27Z</dateStamp>
+      <citation>National Trust for Scotland (2019). National Trust for Scotland Species Records. Occurrence dataset https://doi.org/10.15468/a5y1cz accessed via GBIF.org on 2021-02-02.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/national_trust2.jpg</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>
