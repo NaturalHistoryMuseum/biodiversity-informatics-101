@@ -26,7 +26,8 @@ By the end of the class, students will have a basic understanding of:
 
 ##### Open Jupyter notebook
 
-The Jupyter notebook is hosted online on Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NaturalHistoryMuseum/biodiversity-informatics-101/master?filepath=occurrence.ipynb)
+[![The Jupyter notebook is hosted on Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NaturalHistoryMuseum/biodiversity-informatics-101/HEAD?filepath=occurrences.ipynb)
+
 
 
 
