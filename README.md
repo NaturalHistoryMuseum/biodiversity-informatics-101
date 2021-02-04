@@ -3,8 +3,7 @@
 |     |     |
 | --- | --- |
 | MSc title        | Taxonomy and Biodiversity |
-| Module           | Biodiversity 2: Applied   |
-| Document version | 1.0 (4th/02/2021)          |
+| Document version | 2.0 (4/02/2021)          |
 | Author           | Ben Scott                 |
 | Duration         | 120 minutes                |
 
