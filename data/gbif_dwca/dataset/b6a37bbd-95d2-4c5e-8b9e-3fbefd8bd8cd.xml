@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="b6a37bbd-95d2-4c5e-8b9e-3fbefd8bd8cd"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/1epq4f</alternateIdentifier>
+        <alternateIdentifier>b6a37bbd-95d2-4c5e-8b9e-3fbefd8bd8cd</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr1687</alternateIdentifier>
+        <alternateIdentifier>15ceda20-2162-34c8-8b03-19c492d0e240</alternateIdentifier>
+    <title>Woodmeadow Invertebrate Survey 2016</title>
+    <creator>
+<organizationName>Woodmeadow Trust</organizationName>    <address>
+<deliveryPoint>Little Annexe, Estate Office</deliveryPoint><city>Escrick</city><postalCode>YO19 6EA</postalCode><country>UNITED_KINGDOM</country>    </address>
+<onlineUrl>https://www.woodmeadowtrust.org.uk/home</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Woodmeadow Trust</organizationName>    <address>
+<deliveryPoint>Little Annexe, Estate Office</deliveryPoint><city>Escrick</city><postalCode>YO19 6EA</postalCode><country>UNITED_KINGDOM</country>    </address>
+<onlineUrl>https://www.woodmeadowtrust.org.uk/home</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2020-03-19
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Invertebrate (insects, molluscs, arachnids, crustaceans) from sub-habitats within the developing wood-meadow ecosystem created de novo. Absences are not recorded.
+Records collected to establish the biodiversity of the wood-meadow as it develops over time.</para>
+    </abstract>
+      <additionalInfo>
+          <para>Additional (and more detailed) information about the data can be found at https://www.woodmeadowtrust.org.uk/home</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr1687</url>
+          </online>
+      </distribution>
+      <coverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2016-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2016-12-31
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <contact>
+    <individualName>
+<givenName>Rosalind</givenName>          <surName>Forbes Adam</surName>
+    </individualName>
+<electronicMailAddress>rosalind@woodmeadowtrust.org.uk</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>The records are of specimens collected in the field and identified in the laboratory. Larger taxa (e.g. dragonflies) were identified from photographs.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>There is a high level of confidence in the quality of all aspects of data capture: the data source, processing, validation and record collation. The majority of the data have been collected by professional entomologists and identified by them or acknowledged authorities where required.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-02-02T18:33:28Z</dateStamp>
+      <citation>Woodmeadow Trust (2020). Woodmeadow Invertebrate Survey 2016. Occurrence dataset https://doi.org/10.15468/1epq4f accessed via GBIF.org on 2021-02-02.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/Woodmeadow+Trust+Oblong.jpg</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="02d1e772-54ee-4767-b4b8-c35f0c7270ba"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/jca5lo</alternateIdentifier>
+        <alternateIdentifier>02d1e772-54ee-4767-b4b8-c35f0c7270ba</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr755</alternateIdentifier>
+        <alternateIdentifier>fb84b31e-473d-3b61-aae7-fcd8800cea05</alternateIdentifier>
+    <title>NBIS Records to December 2016</title>
+    <creator>
+<organizationName>Norfolk Biodiversity Information Service</organizationName>    <address>
+<deliveryPoint>6th Floor, County Hall,</deliveryPoint><city>Martineau Lane</city><administrativeArea>NORWICH</administrativeArea><postalCode>NR1 2DH</postalCode>    </address>
+<phone>01603 638027</phone><electronicMailAddress>enquiries.nbis@norfolk.gov.uk</electronicMailAddress><onlineUrl>http://www.nbis.org.uk/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Norfolk Biodiversity Information Service</organizationName>    <address>
+<deliveryPoint>6th Floor, County Hall,</deliveryPoint><city>Martineau Lane</city><administrativeArea>NORWICH</administrativeArea><postalCode>NR1 2DH</postalCode>    </address>
+<phone>01603 638027</phone><electronicMailAddress>enquiries.nbis@norfolk.gov.uk</electronicMailAddress><onlineUrl>http://www.nbis.org.uk/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2017-06-16
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Species records for the county of Norfolk</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr755</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>The dataset covers the administrative boundary of Norfolk including the marine environment.
+ 
+ There is uneven coverage of the county due to casual recording and surveying effort being localised.
+ 
+ Grid references are at all levels of accuracy</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>0.136</westBoundingCoordinate>
+                      <eastBoundingCoordinate>2.066</eastBoundingCoordinate>
+                      <northBoundingCoordinate>53.243</northBoundingCoordinate>
+                      <southBoundingCoordinate>52.327</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      0998-12-27
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2016-12-31
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <purpose>
+          <para>To record the species of Norfolk</para>
+      </purpose>
+      <contact>
+    <individualName>
+<givenName>NBIS</givenName>          <surName>Downloads</surName>
+    </individualName>
+<electronicMailAddress>nbis@norfolk.gov.uk</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Records are a mixture of casual records and site surveys provided by members of the public, professional ecologists and members of the Norfolk and Norwich Naturalists Society. Records are verified by the network of Norfolk County Recorders unless they come from another expert source.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>Records have been collated and validated by the county recorders or come from expert sources but some inaccuracies may be present.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-02-02T18:33:30Z</dateStamp>
+      <citation>Norfolk Biodiversity Information Service (2017). NBIS Records to December 2016. Occurrence dataset https://doi.org/10.15468/jca5lo accessed via GBIF.org on 2021-02-02.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

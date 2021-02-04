@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="216952bd-4392-4f48-bd5f-322486e2b35c"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/qwl87e</alternateIdentifier>
+        <alternateIdentifier>216952bd-4392-4f48-bd5f-322486e2b35c</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr1284</alternateIdentifier>
+        <alternateIdentifier>4689a64e-0ff1-3311-9960-a1feaa19f3a9</alternateIdentifier>
+    <title>Coleoptera: Records for Kent</title>
+    <creator>
+<organizationName>Kent &amp; Medway Biological Records Centre</organizationName>    <address>
+<deliveryPoint>Brogdale Farm Brogdale Road</deliveryPoint><city>Faversham</city><postalCode>ME13 8XZ</postalCode>    </address>
+<phone>01795 532385</phone><electronicMailAddress>info@kmbrc.org.uk</electronicMailAddress><onlineUrl>https://www.kmbrc.org.uk/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Kent &amp; Medway Biological Records Centre</organizationName>    <address>
+<deliveryPoint>Brogdale Farm Brogdale Road</deliveryPoint><city>Faversham</city><postalCode>ME13 8XZ</postalCode>    </address>
+<phone>01795 532385</phone><electronicMailAddress>info@kmbrc.org.uk</electronicMailAddress><onlineUrl>https://www.kmbrc.org.uk/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2019-01-19
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Coleoptera: Records administered by the KMBRC.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr1284</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Largely Kent, though records from Kent recorders visiting other counties are included.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-2.526</westBoundingCoordinate>
+                      <eastBoundingCoordinate>1.922</eastBoundingCoordinate>
+                      <northBoundingCoordinate>53.362</northBoundingCoordinate>
+                      <southBoundingCoordinate>50.835</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1848-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2018-09-18
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <purpose>
+          <para>These records have been collected under several different surveys. Some for the purposes of EIA, others as part of Kent recorder&apos;s activities.</para>
+      </purpose>
+      <contact>
+    <individualName>
+<givenName>Tony</givenName>          <surName>Witts</surName>
+    </individualName>
+<electronicMailAddress>tony.witts@kmbrc.org.uk</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>The records are made up of species observations made by volunteers and submitted to Kent&apos;s Regional Recorders</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>These records have been checked as far as is possible by KMBRC. The data has been passed through the NBN Record Cleaner and cleansed of all date and spatial reference errors. The data is mostly from reknowned local entomologists and some national specialists and so their determinations are presumed to be good.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-02-02T18:33:31Z</dateStamp>
+      <citation>Kent &amp; Medway Biological Records Centre (2019). Coleoptera: Records for Kent. Occurrence dataset https://doi.org/10.15468/qwl87e accessed via GBIF.org on 2021-02-02.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

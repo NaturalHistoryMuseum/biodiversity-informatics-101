@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="94c74198-9eaf-4b43-a349-0b566dcd648a"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/aaxvmc</alternateIdentifier>
+        <alternateIdentifier>94c74198-9eaf-4b43-a349-0b566dcd648a</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr1363</alternateIdentifier>
+        <alternateIdentifier>a833bf81-92dd-3df6-9cd5-7a7d6e34e66d</alternateIdentifier>
+    <title>Invertebrate records from sites that are mainly across Scotland</title>
+    <creator>
+<organizationName>Buglife</organizationName>    <address>
+<deliveryPoint>Balallan House 24 Allan Park</deliveryPoint><city>Stirling</city><postalCode>FK8 2QG</postalCode><country>UNITED_KINGDOM</country>    </address>
+<phone>01786 447504</phone><electronicMailAddress>scotland@buglife.org.uk</electronicMailAddress><onlineUrl>https://www.buglife.org.uk/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Buglife</organizationName>    <address>
+<deliveryPoint>Balallan House 24 Allan Park</deliveryPoint><city>Stirling</city><postalCode>FK8 2QG</postalCode><country>UNITED_KINGDOM</country>    </address>
+<phone>01786 447504</phone><electronicMailAddress>scotland@buglife.org.uk</electronicMailAddress><onlineUrl>https://www.buglife.org.uk/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2020-02-11
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Scottish Invertebrate records collected and collated by Buglife staff and volunteers (mainly Scottish locations in this dataset).
+Records collected from several invertebrate surveys at various sites across Scotland using a variety of survey techniques and with different people.  Data stored by Buglife Scotland (www.buglife.org.uk). Specimens from many of the surveys are stored by Buglife.</para>
+    </abstract>
+      <additionalInfo>
+          <para>Records from various invertebrtae surveys from 2000. Data set includes historic records of Glow worm and Oil beetles from across Scotland dating from 1869.</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr1363</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Records mostly from various sites across Scotland with several from Peterborough in England.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-6.645</westBoundingCoordinate>
+                      <eastBoundingCoordinate>0.527</eastBoundingCoordinate>
+                      <northBoundingCoordinate>58.465</northBoundingCoordinate>
+                      <southBoundingCoordinate>50.464</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1869-04-15
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2019-10-18
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <purpose>
+          <para>To provide distribution data for research and analysis of invertebrates in Scotland.</para>
+      </purpose>
+      <contact>
+    <individualName>
+<givenName>Suzanne</givenName>          <surName>Burgess</surName>
+    </individualName>
+<electronicMailAddress>suzanne.burgess@buglife.org.uk</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Data is collected by Buglife staff, experts and interested members of the public in the field. Techniques included pitfall traps, sweep netting, aerial netting, pond netting, hand collecting, light trapping and casual field observation. Each record has been verified by either the recorder or an aditional expert in specific  taxa, and preserved specimens are available. Metadata for each record is available.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>Only verified data included in data set including verified historic records of Oil beetles and Glowworms. Undetermined specimens (e.g. juvenile spiders or certain flies) labelled as genus or family with certainty.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-02-02T18:33:28Z</dateStamp>
+      <citation>Buglife (2020). Invertebrate records from sites that are mainly across Scotland. Occurrence dataset https://doi.org/10.15468/aaxvmc accessed via GBIF.org on 2021-02-02.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/image002.jpg</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

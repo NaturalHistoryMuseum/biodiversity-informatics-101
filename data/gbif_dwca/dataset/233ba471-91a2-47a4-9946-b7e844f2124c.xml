@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="233ba471-91a2-47a4-9946-b7e844f2124c"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/vozyfp</alternateIdentifier>
+        <alternateIdentifier>233ba471-91a2-47a4-9946-b7e844f2124c</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr1786</alternateIdentifier>
+        <alternateIdentifier>f4ce71fe-cc3e-30c4-9b1f-d785bf150665</alternateIdentifier>
+    <title>Montgomeryshire Wildlife Trust records held by BIS</title>
+    <creator>
+<organizationName>BIS for Powys &amp; Brecon Beacons National Park</organizationName>    <address>
+<deliveryPoint>Unit 4</deliveryPoint><city>Brecon</city><administrativeArea>Powys</administrativeArea><postalCode>LD3 7LB</postalCode>    </address>
+<phone>01874 610881</phone><electronicMailAddress>info@bis.org.uk</electronicMailAddress><onlineUrl>http://www.bis.org.uk/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>BIS for Powys &amp; Brecon Beacons National Park</organizationName>    <address>
+<deliveryPoint>Unit 4</deliveryPoint><city>Brecon</city><administrativeArea>Powys</administrativeArea><postalCode>LD3 7LB</postalCode>    </address>
+<phone>01874 610881</phone><electronicMailAddress>info@bis.org.uk</electronicMailAddress><onlineUrl>http://www.bis.org.uk/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2020-05-12
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Montgomeryshire Wildlife Trust species records collated and digitised by BIS. Many are for MWT Reserves or Wildlife Sites.
+Contact BIS for further information or go to website www.bis.org.uk for County recorder contacts.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr1786</url>
+          </online>
+      </distribution>
+      <purpose>
+          <para>Collated for nature conservation and management</para>
+      </purpose>
+      <contact>
+    <individualName>
+<givenName>Jo</givenName>          <surName>Milborrow</surName>
+    </individualName>
+<positionName>editor</positionName><electronicMailAddress>info@bis.org.uk</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Mainly from field observations but may include mammal and moth trapping and surveys.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>Records are validated for geographical area on import to BIS database. BIS makes every effort to exchange with county recorders for verification but due to the historical nature of this dataset some records remain unverified. Data will have been collected by local experts, ecological consultants, ecologists and members of the public.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-02-02T18:33:27Z</dateStamp>
+      <citation>BIS for Powys &amp; Brecon Beacons National Park (2020). Montgomeryshire Wildlife Trust records held by BIS. Occurrence dataset https://doi.org/10.15468/vozyfp accessed via GBIF.org on 2021-02-02.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/BISLogo.jpg</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

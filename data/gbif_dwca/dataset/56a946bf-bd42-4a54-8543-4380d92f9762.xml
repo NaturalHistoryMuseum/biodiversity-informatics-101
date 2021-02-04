@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="56a946bf-bd42-4a54-8543-4380d92f9762"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/ydifzd</alternateIdentifier>
+        <alternateIdentifier>56a946bf-bd42-4a54-8543-4380d92f9762</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr1180</alternateIdentifier>
+        <alternateIdentifier>8f51d4a1-7496-3c76-b0a6-ae009aae4e5e</alternateIdentifier>
+    <title>INNS Data: All Taxa (West Wales)</title>
+    <creator>
+<organizationName>West Wales Biodiversity Information Centre</organizationName>    <address>
+<deliveryPoint>Llwynybrain</deliveryPoint><city>Whitland</city><administrativeArea>Carmarthenshire</administrativeArea><postalCode>SA34 0NG</postalCode><country>UNITED_KINGDOM</country>    </address>
+<onlineUrl>http://www.wwbic.org.uk/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>West Wales Biodiversity Information Centre</organizationName>    <address>
+<deliveryPoint>Llwynybrain</deliveryPoint><city>Whitland</city><administrativeArea>Carmarthenshire</administrativeArea><postalCode>SA34 0NG</postalCode><country>UNITED_KINGDOM</country>    </address>
+<onlineUrl>http://www.wwbic.org.uk/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2020-03-09
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>All invasive non native species records held by WWBIC for Carmarthenshire, Ceredigion and Pembrokeshire excluding records that have already been uploaded by WWBIC to the NBN Atlas in other datasets.
+
+Please contact the dataset administrator if more information is required</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr1180</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>West Wales (Carmarthenshire, Ceredigion and Pembrokeshire). Geographical coverage is incomplete, there are large areas of West Wales with very little recorder activity and therefor this should not be taken as a definitive map of INNS in the region.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-5.415</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-2.795</eastBoundingCoordinate>
+                      <northBoundingCoordinate>53.246</northBoundingCoordinate>
+                      <southBoundingCoordinate>51.561</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1900-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2019-12-20
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <purpose>
+          <para>These records have been collated from a wide variety of sources both recent and historical. They are provided as a distinct dataset to allow full public access to distribution data of INNS in West Wales.</para>
+      </purpose>
+      <contact>
+    <individualName>
+<givenName>Colin</givenName>          <surName>Russell</surName>
+    </individualName>
+<electronicMailAddress>colin@westwalesbiodiversity.org.uk</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Casual sightings, monitoring and species surveys</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>Records stretch back to the first sightings of INNS in the region. The number of records per year has risen in recent years as public awareness of INNS has increased.
+
+Data are of a wide geographic and temporal range and have been collated from a very varied range of sources. Due to variations in recording effort data should not be regarded as a comprehensive geographic or taxonomic distribution of INNS in West Wales. Data was internally validated by a WWBIC member of staff before import into Recorder 6 although WWBIC cannot guarantee the accuracy of every record.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-02-02T18:33:30Z</dateStamp>
+      <citation>West Wales Biodiversity Information Centre (2020). INNS Data: All Taxa (West Wales). Occurrence dataset https://doi.org/10.15468/ydifzd accessed via GBIF.org on 2021-02-02.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

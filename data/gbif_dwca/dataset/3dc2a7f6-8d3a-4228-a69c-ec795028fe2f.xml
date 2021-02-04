@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="3dc2a7f6-8d3a-4228-a69c-ec795028fe2f"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/hcgqsi</alternateIdentifier>
+        <alternateIdentifier>3dc2a7f6-8d3a-4228-a69c-ec795028fe2f</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr1420</alternateIdentifier>
+        <alternateIdentifier>2b87b7c8-bd77-34c2-a7a1-c31bdcf83c03</alternateIdentifier>
+    <title>Miscellaneous records held on the Cofnod database</title>
+    <creator>
+<organizationName>Cofnod – North Wales Environmental Information Service</organizationName>    <address>
+<deliveryPoint>Intec, Ffordd y Parc</deliveryPoint><city>Parc Menai, Bangor</city><administrativeArea>Gwynedd</administrativeArea><postalCode>LL57 4FG</postalCode>    </address>
+<phone>(01248) 672603</phone><electronicMailAddress>contactus@cofnod.org.uk</electronicMailAddress><onlineUrl>http://www.cofnod.org.uk/Home</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Cofnod – North Wales Environmental Information Service</organizationName>    <address>
+<deliveryPoint>Intec, Ffordd y Parc</deliveryPoint><city>Parc Menai, Bangor</city><administrativeArea>Gwynedd</administrativeArea><postalCode>LL57 4FG</postalCode>    </address>
+<phone>(01248) 672603</phone><electronicMailAddress>contactus@cofnod.org.uk</electronicMailAddress><onlineUrl>http://www.cofnod.org.uk/Home</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2019-12-03
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>This dataset includes all records held on the Cofnod database, with some exceptions. Records of INNS are supplied in a separate dataset. Only records where specific permissions have been obtained from the dataset supplier are included. We have also excluded the following records: any which we believe to be already held on the NBN Atlas; any submitted to us by Biological Records Centre or a National Scheme/Society/Conservation organisation; and any owned by Natural Resources Wales (some of which are submitted by Cofnod within three separate datasets). This dataset includes Sensitive species records (as described in our Data Sourcing, Management and Use policy available from the Cofnod website), however they are not sensitive at the resolution supplied and as their site names and any attached comments have been removed.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr1420</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>While most records are from North Wales there are some from elsewhere in Wales, for which we in effect hold the master copy.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-5.277</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-2.653</eastBoundingCoordinate>
+                      <northBoundingCoordinate>53.429</northBoundingCoordinate>
+                      <southBoundingCoordinate>51.374</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1849-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2019-11-24
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <purpose>
+          <para>Records will have been collected for many different reasons, but have been collated by Cofnod as part of our aim to bring together species records across North Wales.</para>
+      </purpose>
+      <contact>
+    <individualName>
+          <surName>Aisling May</surName>
+    </individualName>
+<electronicMailAddress>record@cofnod.org.uk</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Records originate from a wide variety of different recorders and data suppliers, and have been submitted in various different electronic or paper formats or entered directly onto the Cofnod Online Recording System. Details of various quality checks used are provided below under Confidence in the Data.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>All records have been screened to ensure that they have valid dates, species names and grid references. Depending on the source of the record, and whether or not it fails any of the rule sets included within the NBN Record Cleaner, it may have been subject to systematic verification by the relevant local expert. This dataset contains both Accepted and Unconfirmed records, labelled accordingly, with these Verification Statuses having been translated from Cofnod’s more detailed system of Dataset Categorisation and Record Verification Levels.  Records identified by Verifiers as &apos;Known/Probably Incorrect&apos; or &apos;Unconfirmed&apos; have been excluded.
+
+Further details are given within relevant Cofnod policies. Data should be checked against original sources before use in contentious circumstances. Please contact Cofnod quoting the relevant RecordKey if more information is required about a particular record.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-02-02T18:33:27Z</dateStamp>
+      <citation>Cofnod – North Wales Environmental Information Service (2019). Miscellaneous records held on the Cofnod database. Occurrence dataset https://doi.org/10.15468/hcgqsi accessed via GBIF.org on 2021-02-02.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/COFNOD.jpg</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

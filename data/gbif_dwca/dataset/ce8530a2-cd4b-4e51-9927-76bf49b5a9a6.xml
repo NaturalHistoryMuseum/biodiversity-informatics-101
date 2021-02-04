@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="ce8530a2-cd4b-4e51-9927-76bf49b5a9a6"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/bv8fcj</alternateIdentifier>
+        <alternateIdentifier>ce8530a2-cd4b-4e51-9927-76bf49b5a9a6</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr1212</alternateIdentifier>
+        <alternateIdentifier>65e754b5-92c0-3dd3-a683-93d8c1636635</alternateIdentifier>
+        <alternateIdentifier>11890</alternateIdentifier>
+    <title>Welsh Invertebrate Database (WID)</title>
+    <creator>
+<organizationName>Natural Resources Wales</organizationName>    <address>
+<deliveryPoint>Maes y Ffynnon</deliveryPoint><city>Bangor Gwynedd</city><postalCode>LL57 2DW</postalCode>    </address>
+<electronicMailAddress>nbnadmin@cyfoethnaturiolcymru.gov.uk</electronicMailAddress><onlineUrl>https://naturalresources.wales/splash?orig=/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Natural Resources Wales</organizationName>    <address>
+<deliveryPoint>Maes y Ffynnon</deliveryPoint><city>Bangor Gwynedd</city><postalCode>LL57 2DW</postalCode>    </address>
+<electronicMailAddress>nbnadmin@cyfoethnaturiolcymru.gov.uk</electronicMailAddress><onlineUrl>https://naturalresources.wales/splash?orig=/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2020-10-29
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The purpose of this data capture was to understand the distribution of species in Wales in order to inform conservation decisions. Collation of around 500,000 invertebrate occurrence records, most of which relate to Wales. This is the primary database used by Natural Resources Wales; incorporates other major invertebrate datasets. Includes terrestrial, freshwater and coastal airbreathing invertebrates but not marine species. The database also contains records of associated taxa and incidental records of other species, including alga, vascular plants, amphibians, mammals, birds, fungi, reptiles and bryophytes. Records have been derived from a wide variety of sources, including publications, records provided by schemes and societies, records created by Countryside Council for Wales and Natural Resources Wales staff as part of their normal work, records provided by amateur recorders, other inventories, results from structured surveys or monitoring projects etc. There are over 5,000 different recorders listed in the database. This dataset superseded the UK Invertebrate Site Register (UK ISR) in 1991/2, however, UK ISR data for Wales was incorporated into, and used as a basis for the WID. Other significant surveys which have been incorporated into the WID include Welsh Peatland Invertebrate Survey (WPIS) and the Welsh Parkland Invertebrate Survey amongst others. Significant subsets have been derived from WID for specific purposes e.g. Welsh Marsh Fritillaries, UK Biodiversity Action Plan (BAP) invertebrate data for Wales, Invertebrates on National Nature Reserves.  Data accuracy is reliant on original sources. However, data has been transcribed by experienced invertebrate biologists in order to research incomplete records and minimise errors. Any uncertainties about a particular record, are noted in the database, and removed from the published records on the NBN Atlas. The database is constantly updated, and updated biannually on the NBN Atlas.  Any records where there is not enough information to be fully verified are identified and these are not disseminated to external sources.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr1212</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Mainly Wales, although there are occasional records from elsewhere in the UK.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-7.522</westBoundingCoordinate>
+                      <eastBoundingCoordinate>1.755</eastBoundingCoordinate>
+                      <northBoundingCoordinate>58.567</northBoundingCoordinate>
+                      <southBoundingCoordinate>49.957</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1499-12-23
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2017-12-20
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <purpose>
+          <para>The purpose of this data capture was to understand the distribution of species in Wales in order to inform conservation decisions.</para>
+      </purpose>
+      <contact>
+    <individualName>
+<givenName>NRW NBN</givenName>          <surName>Administrator</surName>
+    </individualName>
+<positionName>editor</positionName><electronicMailAddress>nbnadmin@cyfoethnaturiolcymru.gov.uk</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Records have been derived from a wide variety of sources, including publications, records provided by schemes and societies, records created by NRW staff as part of their normal work, records provided by amateur recorders, other inventories, results from structured surveys or monitoring projects etc. There are over 5,000 different recorders listed in the database.</para>
+                </description>
+            </methodStep>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-02-02T18:33:29Z</dateStamp>
+      <citation>Natural Resources Wales (2020). Welsh Invertebrate Database (WID). Occurrence dataset https://doi.org/10.15468/bv8fcj accessed via GBIF.org on 2021-02-02.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/NRW.jpg</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>
