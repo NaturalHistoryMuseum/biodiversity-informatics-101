@@ -7,3 +7,5 @@ dependencies:
   - geopandas=0.6.1
   - matplotlib=3.3.2
   - geoplot=0.4.1
+  - pip:
+    - keplergl
