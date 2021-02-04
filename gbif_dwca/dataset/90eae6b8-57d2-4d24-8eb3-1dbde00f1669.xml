@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="90eae6b8-57d2-4d24-8eb3-1dbde00f1669"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/krljpu</alternateIdentifier>
+        <alternateIdentifier>90eae6b8-57d2-4d24-8eb3-1dbde00f1669</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr1248</alternateIdentifier>
+        <alternateIdentifier>0b691b03-e46a-3a0c-9ac4-393399a28ee3</alternateIdentifier>
+    <title>NRW Regional Data: North Wales</title>
+    <creator>
+<organizationName>Cofnod – North Wales Environmental Information Service</organizationName>    <address>
+<deliveryPoint>Intec, Ffordd y Parc</deliveryPoint><city>Parc Menai, Bangor</city><administrativeArea>Gwynedd</administrativeArea><postalCode>LL57 4FG</postalCode>    </address>
+<phone>(01248) 672603</phone><electronicMailAddress>contactus@cofnod.org.uk</electronicMailAddress><onlineUrl>http://www.cofnod.org.uk/Home</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Cofnod – North Wales Environmental Information Service</organizationName>    <address>
+<deliveryPoint>Intec, Ffordd y Parc</deliveryPoint><city>Parc Menai, Bangor</city><administrativeArea>Gwynedd</administrativeArea><postalCode>LL57 4FG</postalCode>    </address>
+<phone>(01248) 672603</phone><electronicMailAddress>contactus@cofnod.org.uk</electronicMailAddress><onlineUrl>http://www.cofnod.org.uk/Home</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2019-12-03
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>A collation of records primarily captured from Natural Resources Wales (formerly Countryside Council for Wales) North Region paper files by Cofnod staff. More recent records have been entered by staff of Natural Resources Wales onto the Cofnod Online Recording System. This dataset includes Sensitive species records (as described in our Data Sourcing, Management and Use policy available from the Cofnod website) for which any attached comments have been removed (grid references and site names are automatically blurred by the Atlas).</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr1248</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Records are primarily for the NRW&apos;s North Region which includes the following Local Authority areas: Anglesey, Gwynedd, Conwy, Denbighshire, Flintshire and Wrexham. However there are some records for other areas. Many records are for designated sites (including SSSIs, SACs, National Nature Reserves etc), but there are also large numbers of records from the wider countryside. The majority of the records have grid references of at least 100m accuracy (6 figure), however some of these may be derived from site centroids rather than refer to the actual location of the species (if this is the case it will be specified in the attribute:  GridReferenceType).</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-4.818</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-2.819</eastBoundingCoordinate>
+                      <northBoundingCoordinate>53.432</northBoundingCoordinate>
+                      <southBoundingCoordinate>51.464</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1662-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2019-11-24
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <purpose>
+          <para>To mobilise a valuable data resource in order to provide baseline data to inform conservation work, research, site management and decision-making within NRW and externally.</para>
+      </purpose>
+      <contact>
+    <individualName>
+          <surName>Aisling May</surName>
+    </individualName>
+<electronicMailAddress>record@cofnod.org.uk</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>This dataset was originally created from species records extracted, computerised and collated from paper records held at NRW&apos;s Regional office files. The work was mostly carried out by Cofnod Staff Members, between 2007 and 2010, as part of NRW&apos;s Data Mobilisation Project. Offices covered were Dolgellau, Bangor and Mold. Additional records have been captured by Cofnod volunteers or entered directly onto the Cofnod Online Recording System by staff of National Resources Wales. The material from which records were derived includes the following: reports, site registers, recording cards, protected site condition assessments, Phase 1 and Phase 2 habitat surveys, other general survey work and records of casual observations. Numerous biological recording techniques and survey methodologies were used in the collection of these records. Some of the records were produced by NRW staff or by qualified contractors working on NRW&apos;s behalf whilst some records have been provided by third parties, or derived from documents, surveys or datasets produced by others, but held in NRW files. Wherever third party records could be readily and practically identified, and permission has not been obtained to include them, they have been removed from this dataset.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>The majority of the records were originally created by NRW staff or qualified contractors. They have been entered onto computer by trained Cofnod staff or volunteers using Cofnod&apos;s custom built Data Entry Systems which use standard lists where possible to ensure consistent terminology. Randomised Quality Assurance checks have been carried out on much of the data (apart from on that entered directly by NRW staff). All records have been screened to ensure that they have valid dates, species names and grid references. 
+
+Depending on when the record was entered, and whether or not it fails any of the rule sets included within the NBN Record Cleaner, it may have been subject to systematic verification by the relevant local expert. This dataset contains both Accepted and Unconfirmed records, labelled accordingly, with these Verification Statuses having been translated from Cofnod’s more detailed system of Dataset Categorisation and Record Verification Levels.  Records identified by Verifiers as &apos;Known/Probably Incorrect&apos; or &apos;Unconfirmed&apos; have been excluded.
+
+Further details are given within relevant Cofnod policies. Data should be checked against original sources before use in contentious circumstances.
+
+Please contact Cofnod quoting the relevant occurrenceID if more information is required about a particular record</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-02-02T18:33:28Z</dateStamp>
+      <citation>Cofnod – North Wales Environmental Information Service (2019). NRW Regional Data: North Wales. Occurrence dataset https://doi.org/10.15468/krljpu accessed via GBIF.org on 2021-02-02.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/COFNOD.jpg</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

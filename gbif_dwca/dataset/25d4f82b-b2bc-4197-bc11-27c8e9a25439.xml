@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="25d4f82b-b2bc-4197-bc11-27c8e9a25439"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/5v5pvk</alternateIdentifier>
+        <alternateIdentifier>25d4f82b-b2bc-4197-bc11-27c8e9a25439</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr782</alternateIdentifier>
+        <alternateIdentifier>20624079-2256-31ef-8c91-e04b5f837889</alternateIdentifier>
+    <title>Shropshire Ecological Data Network database</title>
+    <creator>
+<organizationName>Shropshire Ecological Data Network</organizationName>    <address>
+<deliveryPoint>Abbey Foregate</deliveryPoint><city>Shrewsbury</city><administrativeArea>Shropshire</administrativeArea><postalCode>SY2 6ND</postalCode><country>UNITED_KINGDOM</country>    </address>
+<onlineUrl>http://www.shropshireecology.co.uk/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Shropshire Ecological Data Network</organizationName>    <address>
+<deliveryPoint>Abbey Foregate</deliveryPoint><city>Shrewsbury</city><administrativeArea>Shropshire</administrativeArea><postalCode>SY2 6ND</postalCode><country>UNITED_KINGDOM</country>    </address>
+<onlineUrl>http://www.shropshireecology.co.uk/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2020-02-11
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>All our records for Shropshire.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr782</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Mostly v.c. 40.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-3.252</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-2.222</eastBoundingCoordinate>
+                      <northBoundingCoordinate>53.451</northBoundingCoordinate>
+                      <southBoundingCoordinate>51.741</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1541-12-22
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2019-09-11
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <purpose>
+          <para>dataset.purpose.</para>
+      </purpose>
+      <contact>
+    <individualName>
+<givenName>Alex</givenName>          <surName>Lockton</surName>
+    </individualName>
+<electronicMailAddress>alex.lockton@gmail.com</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Records are compiled by county recorders using techniques appropriate to the species concerned.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>Records are subject to continuous updating and correcting. We use county recorders and taxonomic experts to verify the data, so the records are generally of high quality.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-02-02T18:33:31Z</dateStamp>
+      <citation>Shropshire Ecological Data Network (2020). Shropshire Ecological Data Network database. Occurrence dataset https://doi.org/10.15468/5v5pvk accessed via GBIF.org on 2021-02-02.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/Shropshire-Ecological-Data-Network-logo-col-730x150.jpg</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

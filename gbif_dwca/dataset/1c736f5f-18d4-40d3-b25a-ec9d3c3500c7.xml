@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="1c736f5f-18d4-40d3-b25a-ec9d3c3500c7"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/ejve6c</alternateIdentifier>
+        <alternateIdentifier>1c736f5f-18d4-40d3-b25a-ec9d3c3500c7</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr819</alternateIdentifier>
+        <alternateIdentifier>757212c8-bfcb-3119-8c1b-e66043354bab</alternateIdentifier>
+    <title>Argyll Biological Records Dataset</title>
+    <creator>
+<organizationName>Argyll Biological Records Centre</organizationName>    <address>
+<deliveryPoint>Ardchattan Priory</deliveryPoint><city>Connel,</city><postalCode>PA37 1RQ</postalCode>    </address>
+<electronicMailAddress>data@lnhg.org.uk</electronicMailAddress><onlineUrl>http://www.abrec.org.uk</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Argyll Biological Records Centre</organizationName>    <address>
+<deliveryPoint>Ardchattan Priory</deliveryPoint><city>Connel,</city><postalCode>PA37 1RQ</postalCode>    </address>
+<electronicMailAddress>data@lnhg.org.uk</electronicMailAddress><onlineUrl>http://www.abrec.org.uk</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2020-10-05
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>ABReC operates the biological records centre for VC98 Main Argyll and the Isle of Mull, with support from Scottish Natural Heritage. We also accept records from other parts of Argyll that lack records centres of their own. This dataset contains all the records we hold, apart from any acquired since our last NBNA upload. Records from all taxonomic groups are accepted. Taxonomic coverage is uneven but we make constant efforts to redress the balance by targeting under-recorded groups.
+
+Website http://www.abrec.org.uk    Facebook &amp;#34;Argyll Biological Records Centre&amp;#34;.  ABReC can conduct data searches for ecological consultants.
+ABReC&amp;#39;s predecessor and partner organisation LNHG started collecting records in 2007 and has done so continuously since then. Some members have supplied records dating back prior to 2007. Recording activity continues all year round. Virtually all records have a full date (DD/MM/YYYY).</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr819</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>ABReC&apos;s data comes from vice-counties 98, 101, 102 &amp; 103.  Our  geographical coverage of VC98 is uneven, and our coverage of the other 3 VC&apos;s is even more patchy.  Record density tends to reflect the localities where recorders are active, but every effort is being made to obtain a more comprehensive coverage.  The majority of records have 8-figure grid references, apart from those for common vascular plants, which normally have 4-figure grid references.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-6.958</westBoundingCoordinate>
+                      <eastBoundingCoordinate>1.21</eastBoundingCoordinate>
+                      <northBoundingCoordinate>58.011</northBoundingCoordinate>
+                      <southBoundingCoordinate>50.294</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1884-09-04
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2020-09-28
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <purpose>
+          <para>The records were collected for personal interest and/or with a view to adding to the Group&apos;s knowledge of species distribution in the area. This dataset is produced to make that knowledge more widely available.</para>
+      </purpose>
+      <contact>
+    <individualName>
+<givenName>Carl</givenName>          <surName>Farmer</surName>
+    </individualName>
+<electronicMailAddress>records@abrec.org.uk</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>The great majority of records are field observations, but a considerable number are from moth traps. Records have to be accepted by the ABReC Biological Records Manager, who in case of uncertainty will seek further verification from an appropriate expert. Records considered doubtful are excluded, however there is no guarantee that the records are error-free.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>Data do not have comprehensive geographic or taxonomic coverage. They may not have been assessed in light of recent taxonomic splits or aggregations. Data should therefore be checked against original sources before use in contentious circumstances. Considerable effort is made to avoid errors but it is to be expected that some errors will occur. ABReC can take no responsibilty for these.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-02-02T18:33:28Z</dateStamp>
+      <citation>Lorn Natural History Group (2020). Argyll Biological Records Dataset. Occurrence dataset https://doi.org/10.15468/ejve6c accessed via GBIF.org on 2021-02-02.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/lorn.jpg</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,71 @@
+When using this dataset please use the following citation and pay attention to the rights documented in rights.txt:
+Ministry of Justice (2017). Species found in the NOMS estate 2005 - Present. Occurrence dataset https://doi.org/10.15468/wcx4is accessed via GBIF.org on 2021-02-02.
+Staffordshire Ecological Record (2017). Data from Defra Family Organisations supplied to Staffordshire Ecological Record. Occurrence dataset https://doi.org/10.15468/giebpp accessed via GBIF.org on 2021-02-02.
+South East Wales Biodiversity Records Centre (2018). NRW Regional Data: South East Wales Non-sensitive species. Occurrence dataset https://doi.org/10.15468/g7xxs8 accessed via GBIF.org on 2021-02-02.
+Biological Records Centre (2017). Derek Lott Coleoptera Dataset. Occurrence dataset https://doi.org/10.15468/q13ilj accessed via GBIF.org on 2021-02-02.
+National Trust for Scotland (2019). National Trust for Scotland Species Records. Occurrence dataset https://doi.org/10.15468/a5y1cz accessed via GBIF.org on 2021-02-02.
+Natural England (2017). Norfolk and Suffolk Broads Invertebrate Data 2007-2008. Occurrence dataset https://doi.org/10.15468/uloykk accessed via GBIF.org on 2021-02-02.
+BIS for Powys & Brecon Beacons National Park (2020). Montgomeryshire Wildlife Trust records held by BIS. Occurrence dataset https://doi.org/10.15468/vozyfp accessed via GBIF.org on 2021-02-02.
+Blindheim T (2021). BioFokus. Version 1.1634. BioFokus. Occurrence dataset https://doi.org/10.15468/jxbhqx accessed via GBIF.org on 2021-02-02.
+Cumbria Biodiversity Data Centre (2018). Tullie House Museum Natural History Collections. Occurrence dataset https://doi.org/10.15468/epewfs accessed via GBIF.org on 2021-02-02.
+Nottingham Urban Wildlife Scheme (2020). Nottingham Urban Wildlife Scheme iRecord download 2014 - 2017. Occurrence dataset https://doi.org/10.15468/sblbwa accessed via GBIF.org on 2021-02-02.
+Cofnod – North Wales Environmental Information Service (2019). Miscellaneous records held on the Cofnod database. Occurrence dataset https://doi.org/10.15468/hcgqsi accessed via GBIF.org on 2021-02-02.
+Leicestershire and Rutland Environmental Records Centre (2017). Leicestershire & Rutland Coleoptera. Occurrence dataset https://doi.org/10.15468/udqhi9 accessed via GBIF.org on 2021-02-02.
+Ministry of Justice (2020). MoJ BioBlitz August 2018. Occurrence dataset https://doi.org/10.15468/gbyber accessed via GBIF.org on 2021-02-02.
+Ministry of Justice (2020). MoJ BioBlitz April - May 2017. Occurrence dataset https://doi.org/10.15468/zfwl8u accessed via GBIF.org on 2021-02-02.
+Sussex Biodiversity Record Centre (2019). Patrick Roper’s Notebooks. Occurrence dataset https://doi.org/10.15468/ntnedq accessed via GBIF.org on 2021-02-02.
+Woodmeadow Trust (2020). Woodmeadow Invertebrate Survey 2016. Occurrence dataset https://doi.org/10.15468/1epq4f accessed via GBIF.org on 2021-02-02.
+Colette O' Flynn. National Invasive Species Database. National Biodiversity Data Centre. Occurrence dataset https://doi.org/10.15468/pkjqbk accessed via GBIF.org on 2021-02-02.
+Royal Horticultural Society (2017). Records from the RHS insect reference collection. Occurrence dataset https://doi.org/10.15468/b7sk69 accessed via GBIF.org on 2021-02-02.
+Cofnod – North Wales Environmental Information Service (2019). NRW Regional Data: North Wales. Occurrence dataset https://doi.org/10.15468/krljpu accessed via GBIF.org on 2021-02-02.
+Buglife (2020). Invertebrate records from sites that are mainly across Scotland. Occurrence dataset https://doi.org/10.15468/aaxvmc accessed via GBIF.org on 2021-02-02.
+Manx Biological Recording Partnership (2020). Manx Biological Recording Partnership UNVERIFIED Isle of Man records between 14/02/2017 and 05/09/2019. Occurrence dataset https://doi.org/10.15468/6stnx8 accessed via GBIF.org on 2021-02-02.
+Woodmeadow Trust (2020). Woodmeadow Invertebrate Survey 2014. Occurrence dataset https://doi.org/10.15468/iqu35i accessed via GBIF.org on 2021-02-02.
+Lorn Natural History Group (2020). Argyll Biological Records Dataset. Occurrence dataset https://doi.org/10.15468/ejve6c accessed via GBIF.org on 2021-02-02.
+Yorkshire Wildlife Trust (2018). Yorkshire Wildlife Trust - Non-sensitive records from all taxonomic groups. Occurrence dataset https://doi.org/10.15468/2razk5 accessed via GBIF.org on 2021-02-02.
+naturgucker.de. naturgucker. Occurrence dataset https://doi.org/10.15468/uc1apo accessed via GBIF.org on 2021-02-02.
+Woodmeadow Trust (2020). Woodmeadow Invertebrate Survey 2017. Occurrence dataset https://doi.org/10.15468/14uuhu accessed via GBIF.org on 2021-02-02.
+Manx Biological Recording Partnership (2020). Manx Biological Recording Partnership VERIFIED Isle of Man records between 14/02/2017 and 05/09/2019. Occurrence dataset https://doi.org/10.15468/dudjqq accessed via GBIF.org on 2021-02-02.
+Staffordshire Ecological Record (2017). SER Site-based Surveys. Occurrence dataset https://doi.org/10.15468/h2yko0 accessed via GBIF.org on 2021-02-02.
+Questagame (2021). Earth Guardians Weekly Feed. Occurrence dataset https://doi.org/10.15468/slqqt8 accessed via GBIF.org on 2021-02-02.
+Staffordshire Ecological Record (2017). Staffordshire Wildlife Trust Nature Reserves Inventory. Occurrence dataset https://doi.org/10.15468/vhdows accessed via GBIF.org on 2021-02-02.
+Sheffield and Rotherham Wildlife Trust (2020). Sheffield and Rotherham Wildlife Trust - Records. Occurrence dataset https://doi.org/10.15468/x3wdpp accessed via GBIF.org on 2021-02-02.
+Manx Biological Recording Partnership (2020). Isle of Man wildlife records from 01/01/2000 to 13/02/2017. Occurrence dataset https://doi.org/10.15468/mopwow accessed via GBIF.org on 2021-02-02.
+Woodmeadow Trust (2020). Woodmeadow Invertebrate Survey 2018. Occurrence dataset https://doi.org/10.15468/f4n4wf accessed via GBIF.org on 2021-02-02.
+Cumbria Biodiversity Data Centre (2017). Cumbria Non Native Invasive Species. Occurrence dataset https://doi.org/10.15468/3exspu accessed via GBIF.org on 2021-02-02.
+South East Wales Biodiversity Records Centre (2020). SEWBReC Beetles (South East Wales). Occurrence dataset https://doi.org/10.15468/3l4bih accessed via GBIF.org on 2021-02-02.
+Natural Resources Wales (2020). Welsh Invertebrate Database (WID). Occurrence dataset https://doi.org/10.15468/bv8fcj accessed via GBIF.org on 2021-02-02.
+Highland Biological Recording Group (2020). HBRG Insects Dataset. Occurrence dataset https://doi.org/10.15468/u1p4wc accessed via GBIF.org on 2021-02-02.
+Staffordshire Ecological Record (2017). SER Species-based Surveys. Occurrence dataset https://doi.org/10.15468/q8qen3 accessed via GBIF.org on 2021-02-02.
+Natural History Museum (2021). Natural History Museum (London) Collection Specimens. Occurrence dataset https://doi.org/10.5519/0002965 accessed via GBIF.org on 2021-02-02.
+Royal Horticultural Society (2017). RHS monitoring of native and naturalised plants and animals at its gardens and surrounding areas. Occurrence dataset https://doi.org/10.15468/mjksef accessed via GBIF.org on 2021-02-02.
+BIS for Powys & Brecon Beacons National Park (2020). Miscellaneous records held by BIS. Occurrence dataset https://doi.org/10.15468/mo7peo accessed via GBIF.org on 2021-02-02.
+Natural England (2020). iRecord Surveys. Occurrence dataset https://doi.org/10.15468/i7x5ca accessed via GBIF.org on 2021-02-02.
+Natural England (2017). Invertebrate Common Standards Monitoring and ISIS Test Data. Occurrence dataset https://doi.org/10.15468/epw9ym accessed via GBIF.org on 2021-02-02.
+The International Barcode of Life Consortium (2016). International Barcode of Life project (iBOL). Occurrence dataset https://doi.org/10.15468/inygc6 accessed via GBIF.org on 2021-02-02.
+de Vries H, Lemmens M. Observation.org, Nature data from around the World. Observation.org. Occurrence dataset https://doi.org/10.15468/5nilie accessed via GBIF.org on 2021-02-02.
+Norfolk Biodiversity Information Service (2017). NBIS Records to December 2016. Occurrence dataset https://doi.org/10.15468/jca5lo accessed via GBIF.org on 2021-02-02.
+Rotherham Biological Records Centre (2017). Rotherham Biological Records Centre - Non-sensitive Records from all taxonomic groups. Occurrence dataset https://doi.org/10.15468/d3tufo accessed via GBIF.org on 2021-02-02.
+Cofnod – North Wales Environmental Information Service (2019). Records of Invasive Non Native Species held on the Cofnod database. Occurrence dataset https://doi.org/10.15468/nxdbhu accessed via GBIF.org on 2021-02-02.
+West Wales Biodiversity Information Centre (2020). INNS Data: All Taxa (West Wales). Occurrence dataset https://doi.org/10.15468/ydifzd accessed via GBIF.org on 2021-02-02.
+Merseyside BioBank (2020). Merseyside BioBank Active Naturalists (unverified). Occurrence dataset https://doi.org/10.15468/smzyqf accessed via GBIF.org on 2021-02-02.
+Merseyside BioBank (2020). Merseyside BioBank Active Naturalists (verified). Occurrence dataset https://doi.org/10.15468/ugurj2 accessed via GBIF.org on 2021-02-02.
+Bristol Regional Environmental Records Centre (2019). BRERC species records from all years at full resolution excluding Notable Species within the last 10 years. Occurrence dataset https://doi.org/10.15468/h1ln5p accessed via GBIF.org on 2021-02-02.
+Merseyside BioBank (2020). Merseyside BioBank (verified). Occurrence dataset https://doi.org/10.15468/ar0p6s accessed via GBIF.org on 2021-02-02.
+National Trust (2019). National Trust Species Records. Occurrence dataset https://doi.org/10.15468/opc6g1 accessed via GBIF.org on 2021-02-02.
+BIS for Powys & Brecon Beacons National Park (2020). INNS records held by BIS in Powys and Brecon Beacons National Park. Occurrence dataset https://doi.org/10.15468/rhg0pc accessed via GBIF.org on 2021-02-02.
+Kent & Medway Biological Records Centre (2019). Coleoptera: Records for Kent. Occurrence dataset https://doi.org/10.15468/qwl87e accessed via GBIF.org on 2021-02-02.
+Merseyside BioBank (2020). Merseyside BioBank (unverified). Occurrence dataset https://doi.org/10.15468/iou2ld accessed via GBIF.org on 2021-02-02.
+Bristol Regional Environmental Records Centre (2019). BRERC Notable Species records within the last 10 years. Occurrence dataset https://doi.org/10.15468/vntgox accessed via GBIF.org on 2021-02-02.
+National Biodiversity Network (2020). Steve Lane - Warwickshire dataset and Personal records from various vice-counties. Occurrence dataset https://doi.org/10.15468/jhgun5 accessed via GBIF.org on 2021-02-02.
+Shropshire Ecological Data Network (2020). Shropshire Ecological Data Network database. Occurrence dataset https://doi.org/10.15468/5v5pvk accessed via GBIF.org on 2021-02-02.
+Merseyside BioBank (2018). North Merseyside Local Species Data (DEFRA Grant 23169). Occurrence dataset https://doi.org/10.15468/h5k3ix accessed via GBIF.org on 2021-02-02.
+Lancashire Environment Record Network (2018). LERN Records. Occurrence dataset https://doi.org/10.15468/esxc9a accessed via GBIF.org on 2021-02-02.
+Sussex Biodiversity Record Centre (2020). An 'as-complete-as-possible' Sussex Beetle Records dataset covering the period to March 2017. Occurrence dataset https://doi.org/10.15468/nabhzq accessed via GBIF.org on 2021-02-02.
+Suffolk Biodiversity Information Service (2017). Suffolk Biodiversity Information Service (SBIS) Dataset. Occurrence dataset https://doi.org/10.15468/ab4vwo accessed via GBIF.org on 2021-02-02.
+Record (2017). RECORD Coccinellidae Data. Occurrence dataset https://doi.org/10.15468/bqsh9z accessed via GBIF.org on 2021-02-02.
+South East Wales Biodiversity Records Centre (2020). INNS Data: All Taxa (South East Wales). Occurrence dataset https://doi.org/10.15468/crhjs2 accessed via GBIF.org on 2021-02-02.
+NatureSpot (2020). All taxa records for Leicestershire and Rutland. Occurrence dataset https://doi.org/10.15468/i46are accessed via GBIF.org on 2021-02-02.
+Ueda K (2021). iNaturalist Research-grade Observations. iNaturalist.org. Occurrence dataset https://doi.org/10.15468/ab3s5x accessed via GBIF.org on 2021-02-02.
+Biological Records Centre (2019). Ladybird Survey of the UK. Occurrence dataset https://doi.org/10.15468/3kvvxb accessed via GBIF.org on 2021-02-02.
+Biological Records Centre (2020). UK Ladybird Survey data from iRecord. Occurrence dataset https://doi.org/10.15468/trfsfu accessed via GBIF.org on 2021-02-02.

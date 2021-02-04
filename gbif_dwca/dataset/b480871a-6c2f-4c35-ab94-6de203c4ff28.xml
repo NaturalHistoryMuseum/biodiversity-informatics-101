@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="b480871a-6c2f-4c35-ab94-6de203c4ff28"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/ugurj2</alternateIdentifier>
+        <alternateIdentifier>b480871a-6c2f-4c35-ab94-6de203c4ff28</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr841</alternateIdentifier>
+        <alternateIdentifier>f9d755d5-8883-3b12-a94e-c5950f06cf3a</alternateIdentifier>
+        <alternateIdentifier>14248</alternateIdentifier>
+    <title>Merseyside BioBank Active Naturalists (verified)</title>
+    <creator>
+<organizationName>Merseyside BioBank</organizationName>    <address>
+<deliveryPoint>Court Hey Park Roby Road</deliveryPoint><city>Knowsley</city><postalCode>L16 3NA</postalCode><country>UNITED_KINGDOM</country>    </address>
+<phone>01517 374150</phone><electronicMailAddress>info@merseysidebiobank.org.uk</electronicMailAddress><onlineUrl>http://www.merseysidebiobank.org.uk</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Merseyside BioBank</organizationName>    <address>
+<deliveryPoint>Court Hey Park Roby Road</deliveryPoint><city>Knowsley</city><postalCode>L16 3NA</postalCode><country>UNITED_KINGDOM</country>    </address>
+<phone>01517 374150</phone><electronicMailAddress>info@merseysidebiobank.org.uk</electronicMailAddress><onlineUrl>http://www.merseysidebiobank.org.uk</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2020-10-05
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>This dataset pulls together many of the records supplied to Merseyside BioBank by members of our associated recorders&amp;#39; group, Merseyside BioBank Active Naturalists. The records cover a range of taxonomic groups. None of the records in this dataset have yet been subjected to formal verification. Detailed source information can be provided by contacting us directly.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr841</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>These records are from all parts of North Merseyside (Sefton, St Helens, Knowsley and Liverpool) only.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-3.136</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-2.529</eastBoundingCoordinate>
+                      <northBoundingCoordinate>53.717</northBoundingCoordinate>
+                      <southBoundingCoordinate>53.358</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1900-01-05
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2019-04-22
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <purpose>
+          <para>Records were collected for a variety of reasons and are sourced from a number of different surveys. Many are the results of casual recording but also include structured surveilance and monitoring.</para>
+      </purpose>
+      <contact>
+    <individualName>
+          <surName>Ben Deed</surName>
+    </individualName>
+<electronicMailAddress>Info@MerseysideBioBank.org.uk</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Most of these records were provided by data-suppliers in electronic formats mostly spreadsheets which we manipulated and then imported to Recorder 6 via the import tool. Others were captured by Merseyside BioBank staff and volunteers from a variety of paper sources.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>Confidence in this dataset is high. All records in this dataset have been through a formal process of verification by a local expert and NBN Record Cleaner validation checks have been applied. The records in this dataset have not yet been subject to formal verification. Once they have been, those records which do not pass verification will be removed. NBN Record Cleaner validation checks have been applied.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-02-02T18:33:30Z</dateStamp>
+      <citation>Merseyside BioBank (2020). Merseyside BioBank Active Naturalists (verified). Occurrence dataset https://doi.org/10.15468/ugurj2 accessed via GBIF.org on 2021-02-02.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/MBB.jpg</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

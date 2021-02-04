@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="8821e36f-2d25-44c8-a95e-fb978f38ecde"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/h2yko0</alternateIdentifier>
+        <alternateIdentifier>8821e36f-2d25-44c8-a95e-fb978f38ecde</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr1399</alternateIdentifier>
+        <alternateIdentifier>8f014513-9e55-3afe-afa2-0f12f93950a0</alternateIdentifier>
+        <alternateIdentifier>11913</alternateIdentifier>
+    <title>SER Site-based Surveys</title>
+    <creator>
+<organizationName>Staffordshire Ecological Record</organizationName>    <address>
+<deliveryPoint>The Wolseley Centre, Wolseley Bridge,</deliveryPoint><city>Stafford</city><postalCode>ST17 0WT</postalCode><country>UNITED_KINGDOM</country>    </address>
+<phone>01889 880100</phone><electronicMailAddress>info@staffs-ecology.org.uk</electronicMailAddress><onlineUrl>http://www.staffs-ecology.org.uk/html2015/index.php?title=Main_Page</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Staffordshire Ecological Record</organizationName>    <address>
+<deliveryPoint>The Wolseley Centre, Wolseley Bridge,</deliveryPoint><city>Stafford</city><postalCode>ST17 0WT</postalCode><country>UNITED_KINGDOM</country>    </address>
+<phone>01889 880100</phone><electronicMailAddress>info@staffs-ecology.org.uk</electronicMailAddress><onlineUrl>http://www.staffs-ecology.org.uk/html2015/index.php?title=Main_Page</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2017-06-16
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>This dataset covers records supplied to SER as part of organised Site-based surveys, either for single Biotope groups or specified regions of the county. In most cases the data collection has been administered by individuals within Staffordshire Wildlife Trust.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr1399</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>The majority of the records in the dataset are within Modern Staffordshire, however, there is very little site-based survey work carried out by Staffordshire Wildlife Trust within the Peak District National Park.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-2.522</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-1.63</eastBoundingCoordinate>
+                      <northBoundingCoordinate>53.182</northBoundingCoordinate>
+                      <southBoundingCoordinate>52.462</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1959-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2016-05-19
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <purpose>
+          <para>The majority of the data collection is for monitoring the quality of Wildlife Sites across Staffordshire, producing the Baseline data for the Staffordshire Wildlife Sites Partnership which maintains a register of Wildlife Sites throughout Staffordshire.</para>
+      </purpose>
+      <contact>
+<electronicMailAddress>info@staffs-ecology.org.uk</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>The data are primarily collected during Phase 1 surveys carried out by Staffordshire Wildlife Trust.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>Most of the data has been collected by qualified ecologists employed by Staffordshire Wildlife Trust, so the confidence is high. The NBN Record Cleaner has not been used to check the data.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-02-02T18:33:29Z</dateStamp>
+      <citation>Staffordshire Ecological Record (2017). SER Site-based Surveys. Occurrence dataset https://doi.org/10.15468/h2yko0 accessed via GBIF.org on 2021-02-02.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

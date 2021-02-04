@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="e36c72ed-3b15-49f8-97fc-faaa467eb59e"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/g7xxs8</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr1935</alternateIdentifier>
+        <alternateIdentifier>9c308255-2bee-3327-98dd-70f0de086ffa</alternateIdentifier>
+    <title>NRW Regional Data: South East Wales Non-sensitive species</title>
+    <creator>
+<organizationName>South East Wales Biodiversity Records Centre</organizationName>    <address>
+<deliveryPoint>15 Talbot Road, Talbot Green</deliveryPoint><city>Pontyclun</city><postalCode>CF72 8AD</postalCode>    </address>
+<phone>01443 808896</phone><electronicMailAddress>info@sewbrec.org.uk</electronicMailAddress><onlineUrl>http://www.sewbrec.org.uk/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>South East Wales Biodiversity Records Centre</organizationName>    <address>
+<deliveryPoint>15 Talbot Road, Talbot Green</deliveryPoint><city>Pontyclun</city><postalCode>CF72 8AD</postalCode>    </address>
+<phone>01443 808896</phone><electronicMailAddress>info@sewbrec.org.uk</electronicMailAddress><onlineUrl>http://www.sewbrec.org.uk/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2018-11-30
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>A collation of species records (excluding sensitive species) derived from Natural Resources Wales (formerly Countryside Council for Wales), South and East Region paper files.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr1935</url>
+          </online>
+      </distribution>
+      <coverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1900-08-03
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2018-02-17
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <purpose>
+          <para>To mobilise a valuable data resource in order to provide baseline data to inform conservation work, research, site management and decision-making within CCW and externally.</para>
+      </purpose>
+      <contact>
+    <individualName>
+<givenName>David</givenName>          <surName>Slade</surName>
+    </individualName>
+      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>This dataset was created from species records extracted, computerised and collated from paper records held at CCW’s Regional office files. The work was carried out under contract by SEWBReC Staff Members, Jenny Sneddon, Rebecca Johnson, Lindsay Bamforth, Alice Britt and Elaine Wright, from 2005 to 2010, as part of CCW’s Data Mobilisation Project. Offices covered were Cardiff and Swanesa. 
+The material from which records were derived included the following: reports, site registers, recording cards, protected site condition assessments, Phase 1 and Phase 2 habitat surveys, other general survey work and records of casual observations. 
+
+Numerous biological recording techniques and survey methodologies were used in the collection of these records. 
+
+Some of the records were produced by CCW staff or by qualified contractors working on CCW’s behalf whilst some records have been provided by third parties, or derived from documents, surveys or datasets produced by others, but held in CCW files. Due to the nature of the files and the lack of documentation it is impossible to determine what proportion of the records within the dataset are CCW owned against third party data.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>The majority of the records were created by CCW staff, or qualified contractors and are generally of a good standard. These records have not been subject to systematic verification. The computerisation of these records has been subject to validation.  The spatial reference (grid reference) has been validated. 
+
+Data should be checked against original sources before use in contentious circumstance.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-02-02T18:33:27Z</dateStamp>
+      <citation>South East Wales Biodiversity Records Centre (2018). NRW Regional Data: South East Wales Non-sensitive species. Occurrence dataset https://doi.org/10.15468/g7xxs8 accessed via GBIF.org on 2021-02-02.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/SEWBRC.jpg</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

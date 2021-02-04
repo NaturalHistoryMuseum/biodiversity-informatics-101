@@ -1,0 +1,141 @@
+
+Dataset: Species found in the NOMS estate 2005 - Present
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Data from Defra Family Organisations supplied to Staffordshire Ecological Record
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: NRW Regional Data: South East Wales Non-sensitive species
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Derek Lott Coleoptera Dataset
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: National Trust for Scotland Species Records
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Norfolk and Suffolk Broads Invertebrate Data 2007-2008
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Montgomeryshire Wildlife Trust records held by BIS
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: BioFokus
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Tullie House Museum Natural History Collections
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Nottingham Urban Wildlife Scheme iRecord download 2014 - 2017
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Miscellaneous records held on the Cofnod database
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Leicestershire & Rutland Coleoptera
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: MoJ BioBlitz August 2018
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: MoJ BioBlitz April - May 2017
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Patrick Roper’s Notebooks
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Woodmeadow Invertebrate Survey 2016
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: National Invasive Species Database
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Records from the RHS insect reference collection
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: NRW Regional Data: North Wales
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Invertebrate records from sites that are mainly across Scotland
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Manx Biological Recording Partnership UNVERIFIED Isle of Man records between 14/02/2017 and 05/09/2019
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Woodmeadow Invertebrate Survey 2014
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Argyll Biological Records Dataset
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Yorkshire Wildlife Trust - Non-sensitive records from all taxonomic groups
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: naturgucker
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Woodmeadow Invertebrate Survey 2017
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Manx Biological Recording Partnership VERIFIED Isle of Man records between 14/02/2017 and 05/09/2019
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: SER Site-based Surveys
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Earth Guardians Weekly Feed
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Staffordshire Wildlife Trust Nature Reserves Inventory
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Sheffield and Rotherham Wildlife Trust - Records
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Isle of Man wildlife records from 01/01/2000 to 13/02/2017
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Woodmeadow Invertebrate Survey 2018
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Cumbria Non Native Invasive Species
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: SEWBReC Beetles (South East Wales)
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Welsh Invertebrate Database (WID)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: HBRG Insects Dataset
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SER Species-based Surveys
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Natural History Museum (London) Collection Specimens
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: RHS monitoring of native and naturalised plants and animals at its gardens and surrounding areas
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Miscellaneous records held by BIS
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: iRecord Surveys
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Invertebrate Common Standards Monitoring and ISIS Test Data
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: International Barcode of Life project (iBOL)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Observation.org, Nature data from around the World
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: NBIS Records to December 2016
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Rotherham Biological Records Centre - Non-sensitive Records from all taxonomic groups
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Records of Invasive Non Native Species held on the Cofnod database
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: INNS Data: All Taxa (West Wales)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Merseyside BioBank Active Naturalists (unverified)
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Merseyside BioBank Active Naturalists (verified)
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: BRERC species records from all years at full resolution excluding Notable Species within the last 10 years
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Merseyside BioBank (verified)
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: National Trust Species Records
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: INNS records held by BIS in Powys and Brecon Beacons National Park
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Coleoptera: Records for Kent
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Merseyside BioBank (unverified)
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: BRERC Notable Species records within the last 10 years
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Steve Lane - Warwickshire dataset and Personal records from various vice-counties
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Shropshire Ecological Data Network database
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: North Merseyside Local Species Data (DEFRA Grant 23169)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: LERN Records
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: An 'as-complete-as-possible' Sussex Beetle Records dataset covering the period to March 2017
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Suffolk Biodiversity Information Service (SBIS) Dataset
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: RECORD Coccinellidae Data
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: INNS Data: All Taxa (South East Wales)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: All taxa records for Leicestershire and Rutland
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: iNaturalist Research-grade Observations
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Ladybird Survey of the UK
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: UK Ladybird Survey data from iRecord
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode

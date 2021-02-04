@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="2120e938-254a-4de9-a5d4-2e7b4d7a5493"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/dudjqq</alternateIdentifier>
+        <alternateIdentifier>2120e938-254a-4de9-a5d4-2e7b4d7a5493</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr2079</alternateIdentifier>
+        <alternateIdentifier>f96484ee-4383-351e-8f12-9c08858a787a</alternateIdentifier>
+    <title>Manx Biological Recording Partnership VERIFIED Isle of Man records between 14/02/2017 and 05/09/2019</title>
+    <creator>
+<organizationName>Manx Biological Recording Partnership</organizationName>    <address>
+<deliveryPoint>Department of Environment, Food and Agriculture, Thie Slieau Whallian</deliveryPoint><city>Foxdale Road, St. Johns</city><administrativeArea>Isle of Man</administrativeArea><postalCode>IM4 3AS</postalCode>    </address>
+<electronicMailAddress>philippa.tomlinson@gov.im</electronicMailAddress><onlineUrl>http://www.manxbiodiversity.org/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Manx Biological Recording Partnership</organizationName>    <address>
+<deliveryPoint>Department of Environment, Food and Agriculture, Thie Slieau Whallian</deliveryPoint><city>Foxdale Road, St. Johns</city><administrativeArea>Isle of Man</administrativeArea><postalCode>IM4 3AS</postalCode>    </address>
+<electronicMailAddress>philippa.tomlinson@gov.im</electronicMailAddress><onlineUrl>http://www.manxbiodiversity.org/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2020-07-27
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>All taxon groups recorded since 14/02/2017 and records of any data entered since 14/02/2017. Verified records from MBRP partners, including Manx Wildlife Trust, Manx Basking Shark Watch, BSBI, Isle of Man Flora Group and Isle of Man Fungus Group.
+This dataset includes verified records from MBRP partners, see https://isleofman.nbnatlas.org/about-nbn-atlas/</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr2079</url>
+          </online>
+      </distribution>
+      <purpose>
+          <para>Multi-purpose</para>
+      </purpose>
+      <contact>
+    <individualName>
+<givenName>Philippa</givenName>          <surName>Tomlinson</surName>
+    </individualName>
+<positionName>editor</positionName><electronicMailAddress>Philippa.Tomlinson@gov.im</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Data collected by various people, and collated by MBRP, as part of surveys, project work and casual sightings</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>The records have been carefully checked and verified by recorders, specialists and MBRP staff. All records passed the NBN Record Cleaner validation process.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-02-02T18:33:29Z</dateStamp>
+      <citation>Manx Biological Recording Partnership (2020). Manx Biological Recording Partnership VERIFIED Isle of Man records between 14/02/2017 and 05/09/2019. Occurrence dataset https://doi.org/10.15468/dudjqq accessed via GBIF.org on 2021-02-02.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/ManxBiodiversitylogo.png</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>
