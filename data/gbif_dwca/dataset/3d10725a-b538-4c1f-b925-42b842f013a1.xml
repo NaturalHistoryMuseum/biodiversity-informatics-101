@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="3d10725a-b538-4c1f-b925-42b842f013a1"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/sblbwa</alternateIdentifier>
+        <alternateIdentifier>3d10725a-b538-4c1f-b925-42b842f013a1</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr2095</alternateIdentifier>
+        <alternateIdentifier>5a9f9665-4bf4-37d6-8432-41d461e15d02</alternateIdentifier>
+    <title>Nottingham Urban Wildlife Scheme iRecord download 2014 - 2017</title>
+    <creator>
+<organizationName>Nottingham Urban Wildlife Scheme</organizationName>    <address>
+<deliveryPoint>Brook Street</deliveryPoint><city>Nottingham</city><postalCode>NG1 1EA</postalCode>    </address>
+<electronicMailAddress>martin@martin-willis.net</electronicMailAddress><onlineUrl>https://www.facebook.com/Wildlifeinthecity/?ref=aymt_homepage_panel</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Nottingham Urban Wildlife Scheme</organizationName>    <address>
+<deliveryPoint>Brook Street</deliveryPoint><city>Nottingham</city><postalCode>NG1 1EA</postalCode>    </address>
+<electronicMailAddress>martin@martin-willis.net</electronicMailAddress><onlineUrl>https://www.facebook.com/Wildlifeinthecity/?ref=aymt_homepage_panel</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2020-03-25
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>This data set contains records downloaded from iRecord - with an emphasis on butterflies.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr2095</url>
+          </online>
+      </distribution>
+      <contact>
+<positionName>editor</positionName><electronicMailAddress>nwtcitygroup@gmail.com</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Species identified by members of the Nottingham Urban Wildlife Scheme</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>Data checked by local verifier</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-02-02T18:33:27Z</dateStamp>
+      <citation>Nottingham Urban Wildlife Scheme (2020). Nottingham Urban Wildlife Scheme iRecord download 2014 - 2017. Occurrence dataset https://doi.org/10.15468/sblbwa accessed via GBIF.org on 2021-02-02.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/NUWS.JPG</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

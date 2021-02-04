@@ -1,4 +1,4 @@
-map_config = {
+map_config =  {
   "version": "v1",
   "option": {
       "readOnly": True

@@ -1,4 +1,4 @@
-# Biodiversity Informatics 101
+# Biodiversity Informatics 101 :beetle:
 
 |     |     |
 | --- | --- |
@@ -6,7 +6,7 @@
 | Module           | Biodiversity 2: Applied   |
 | Document version | 1.0 (4th/02/2021)          |
 | Author           | Ben Scott                 |
-| Duration         | 90 minutes                |
+| Duration         | 120 minutes                |
 
 
 #### Scope and outputs
@@ -27,12 +27,14 @@ By the end of the class, students will have a basic understanding of:
 
 ##### Open Jupyter notebook
 
-The Jupyter notebook is hosted online on Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NaturalHistoryMuseum/biodiversity-informatics-101/master?filepath=course.ipynb)
+The Jupyter notebook is hosted online on Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NaturalHistoryMuseum/biodiversity-informatics-101/master?filepath=occurrence.ipynb)
 
 
 
-References
+##### References
 
-[1]  (https://www.gov.uk/government/consultations/invasive-alien-species-management-measures-for-widely-spread-species-in-england-and-wales).
+[1] GBIF.org (2 February 2021) GBIF Occurrence Download https://doi.org/10.15468/dl.t7jqc2
 
-[2] https://www.cabi.org/isc/datasheet/20761
+[2] Natural History Museum (2021). Data Portal query on 1 resource created at 2021-02-04 17:03:53.953587 PID https://doi.org/10.5519/qd.rom2geo2
+
+[3] Brown, P., Roy, D., Harrower, C. et al. Spread of a model invasive alien species, the harlequin ladybird Harmonia axyridis in Britain and Ireland. Sci Data 5, 180239 (2018). https://doi.org/10.1038/sdata.2018.239

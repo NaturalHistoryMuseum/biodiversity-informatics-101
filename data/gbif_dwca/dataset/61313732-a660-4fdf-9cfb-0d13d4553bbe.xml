@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="61313732-a660-4fdf-9cfb-0d13d4553bbe"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/i7x5ca</alternateIdentifier>
+        <alternateIdentifier>10.15468/mwartl</alternateIdentifier>
+        <alternateIdentifier>61313732-a660-4fdf-9cfb-0d13d4553bbe</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr1842</alternateIdentifier>
+        <alternateIdentifier>f6c9f7cc-1b03-3f18-a163-8df7a7e362be</alternateIdentifier>
+    <title>iRecord Surveys</title>
+    <creator>
+<organizationName>Natural England</organizationName>    <address>
+<deliveryPoint>4th Floor, Foss House, Kings Pool, 1-2 Peasholme Green,</deliveryPoint><city>York</city><postalCode>YO1 7PX</postalCode><country>UNITED_KINGDOM</country>    </address>
+<phone>0300 060 3900</phone><onlineUrl>https://www.gov.uk/government/organisations/natural-england</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Natural England</organizationName>    <address>
+<deliveryPoint>4th Floor, Foss House, Kings Pool, 1-2 Peasholme Green,</deliveryPoint><city>York</city><postalCode>YO1 7PX</postalCode><country>UNITED_KINGDOM</country>    </address>
+<phone>0300 060 3900</phone><onlineUrl>https://www.gov.uk/government/organisations/natural-england</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2020-09-07
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>This dataset contains Natural England survey records transferred from iRecord. It is regularly updated to reflect additional data entry to iRecord and updates to record Verification Status information. Survey data may originate from projects, contracts, donated data, staff survey activities, or other sources, and may include coastal data as well as terrestrial.
+Survey records provided by the Natural England Field Unit can be identified by Survey Reference Code &amp;#61; &amp;#34;NEFU&amp;#34;.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr1842</url>
+          </online>
+      </distribution>
+      <contact>
+    <individualName>
+<givenName>Andy</givenName>          <surName>Webb</surName>
+    </individualName>
+<electronicMailAddress>Andrew.webb@naturalengland.org.uk</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>See individual survey information where available on our Access to Evidence Catalogue at http://publications.naturalengland.org.uk/</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>Validation on input to iRecord; records are available to online verifiers within iRecord to check. Records in this dataset will therefore carry a variety of Verification Status values, depending on the extent of verification carried out within iRecord.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-02-02T18:33:30Z</dateStamp>
+      <citation>Natural England (2020). iRecord Surveys. Occurrence dataset https://doi.org/10.15468/i7x5ca accessed via GBIF.org on 2021-02-02.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/NatEng_logo_New_Green-2016.jpg</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

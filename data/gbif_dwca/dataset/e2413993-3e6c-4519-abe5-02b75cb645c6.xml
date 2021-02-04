@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="e2413993-3e6c-4519-abe5-02b75cb645c6"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/epw9ym</alternateIdentifier>
+        <alternateIdentifier>e2413993-3e6c-4519-abe5-02b75cb645c6</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr721</alternateIdentifier>
+        <alternateIdentifier>c925cba3-0050-366d-adb5-61bebc1ea895</alternateIdentifier>
+    <title>Invertebrate Common Standards Monitoring and ISIS Test Data</title>
+    <creator>
+<organizationName>Natural England</organizationName>    <address>
+<deliveryPoint>4th Floor, Foss House, Kings Pool, 1-2 Peasholme Green,</deliveryPoint><city>York</city><postalCode>YO1 7PX</postalCode><country>UNITED_KINGDOM</country>    </address>
+<phone>0300 060 3900</phone><onlineUrl>https://www.gov.uk/government/organisations/natural-england</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Natural England</organizationName>    <address>
+<deliveryPoint>4th Floor, Foss House, Kings Pool, 1-2 Peasholme Green,</deliveryPoint><city>York</city><postalCode>YO1 7PX</postalCode><country>UNITED_KINGDOM</country>    </address>
+<phone>0300 060 3900</phone><onlineUrl>https://www.gov.uk/government/organisations/natural-england</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2017-06-16
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>This dataset represents an accumulation of invertebrate records from both common standards monitoring (CSM) and the testing of ISIS (Invertebrate Species-habitats Information System).</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr721</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>England.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-5.711</westBoundingCoordinate>
+                      <eastBoundingCoordinate>1.63</eastBoundingCoordinate>
+                      <northBoundingCoordinate>55.788</northBoundingCoordinate>
+                      <southBoundingCoordinate>50.066</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2002-04-21
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2014-07-31
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <purpose>
+          <para>Data was used initially to trial the use of ISIS (an analytical database) for applying common standards monitoring. Following on from this, CSM data was captured to  ascertain the condition status of SSSIs that support invertebrate assemblage features.</para>
+      </purpose>
+      <contact>
+    <individualName>
+<givenName>Jon</givenName>          <surName>Webb</surName>
+    </individualName>
+<positionName>editor</positionName><electronicMailAddress>Jon.webb@naturalengland.org.uk</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Invertebrate species were recorded using a specific survey protocol for rapid assessment of invertebrate assemblage features on protected sites. Data from CSM reports commissioned by Natural England were pooled together into a spreadsheet in 2016.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>Data quality should be high, particularly in the earlier stages of the project. A large number of recorders working on this project were of high skill and specialists in their given area. They are known to have assisted each othera^??s identification, with difficult to identify specimens being verified by the appropriate worker.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-02-02T18:33:30Z</dateStamp>
+      <citation>Natural England (2017). Invertebrate Common Standards Monitoring and ISIS Test Data. Occurrence dataset https://doi.org/10.15468/epw9ym accessed via GBIF.org on 2021-02-02.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/NatEng_logo_New_Green-2016.jpg</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

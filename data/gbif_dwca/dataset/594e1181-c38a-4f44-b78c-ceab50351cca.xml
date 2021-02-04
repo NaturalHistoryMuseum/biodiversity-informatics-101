@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="594e1181-c38a-4f44-b78c-ceab50351cca"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/opc6g1</alternateIdentifier>
+        <alternateIdentifier>594e1181-c38a-4f44-b78c-ceab50351cca</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr1236</alternateIdentifier>
+        <alternateIdentifier>3d43f10d-4e2c-30ac-9ba3-3095ed413dfe</alternateIdentifier>
+    <title>National Trust Species Records</title>
+    <creator>
+<organizationName>National Trust</organizationName>    <address>
+<deliveryPoint>Heelis Kemble Drive</deliveryPoint><city>Swindon</city><postalCode>SN2 2NA</postalCode>    </address>
+<electronicMailAddress>gordon.barker@nationaltrust.org.uk</electronicMailAddress><onlineUrl>http://www.nationaltrust.org.uk/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>National Trust</organizationName>    <address>
+<deliveryPoint>Heelis Kemble Drive</deliveryPoint><city>Swindon</city><postalCode>SN2 2NA</postalCode>    </address>
+<electronicMailAddress>gordon.barker@nationaltrust.org.uk</electronicMailAddress><onlineUrl>http://www.nationaltrust.org.uk/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2019-02-06
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Records from the National Trust species database from NT Biological Survey reports, Bioblitzes and other records.
+Full public access is given to this dataset. There are no additional or sensitive records that are available through better levels of access.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr1236</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>NT properties in England, Wales and Northern Ireland.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-7.771</westBoundingCoordinate>
+                      <eastBoundingCoordinate>1.63</eastBoundingCoordinate>
+                      <northBoundingCoordinate>55.698</northBoundingCoordinate>
+                      <southBoundingCoordinate>49.989</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1800-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2019-01-01
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <purpose>
+          <para>Most records collected or collated for the purpose of informing NT Biological Survey reports for NT properties in England Wales and Northern Ireland.</para>
+      </purpose>
+      <contact>
+    <individualName>
+<givenName>Gordon</givenName>          <surName>Barker</surName>
+    </individualName>
+<electronicMailAddress>gordon.barker@nationaltrust.org.uk</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Various.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>Medium to high confidence in data, although records have not been checked using NBNRC. Some errors believed to be present . Grid references in some cases may refer to site centroid or dominant feature of a property rather than record location.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-02-02T18:33:30Z</dateStamp>
+      <citation>National Trust (2019). National Trust Species Records. Occurrence dataset https://doi.org/10.15468/opc6g1 accessed via GBIF.org on 2021-02-02.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/National-Trust--300x250.png</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="ba0b34a0-c7b8-11de-b279-f12cadb93607"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/pkjqbk</alternateIdentifier>
+        <alternateIdentifier>10832</alternateIdentifier>
+    <title>National Invasive Species Database</title>
+    <creator>
+    <individualName>
+          <surName>Colette O&apos; Flynn</surName>
+    </individualName>
+<organizationName>Collated by the National Biodiversity Data Centre from different sources</organizationName>    <address>
+<deliveryPoint>Beechfield House, Waterford Institute of Technology, West Campus, Carraiganore, Co. Waterford.</deliveryPoint><country>IRELAND</country>    </address>
+<phone>(00353)51-306240</phone><electronicMailAddress>coflynn@biodiversityireland.ie</electronicMailAddress><onlineUrl>http://www.biodiversityireland.ie/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>National Biodiversity Data Centre, Ireland</organizationName>    <address>
+<deliveryPoint>Beechfield house, Carriganore WIT West Campus</deliveryPoint><city>Waterford</city><administrativeArea>County Waterford</administrativeArea><country>IRELAND</country>    </address>
+<phone>+353 (0)51 306 240</phone><electronicMailAddress>info@biodiversityireland.ie</electronicMailAddress><onlineUrl>http://www.biodiversityireland.ie/</onlineUrl>    </metadataProvider>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Dataset of Invasive species - initial compilation of aquatic invasive species</para>
+    </abstract>
+      <additionalInfo>
+          <para>http://invasivespecies.biodiversityireland.ie/</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://maps.biodiversityireland.ie/DataSet/66</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>The island of Ireland</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-10.609</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-5.459</eastBoundingCoordinate>
+                      <northBoundingCoordinate>56.41</northBoundingCoordinate>
+                      <southBoundingCoordinate>51.424</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1863
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2019
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <purpose>
+          <para>Various: database compiled to identify and publicly display the distribution of invasive species in Ireland</para>
+      </purpose>
+      <contact>
+    <individualName>
+<givenName>Barry</givenName>          <surName>O&apos;Neill</surName>
+    </individualName>
+<organizationName>National Biodiversity Data Centre, Ireland</organizationName>    <address>
+<deliveryPoint>Beechfield house, Carriganore WIT West Campus</deliveryPoint><city>Waterford</city><administrativeArea>County Waterford</administrativeArea><country>IRELAND</country>    </address>
+<phone>+353 (0)51 306 240</phone><electronicMailAddress>boneill@biodiversityireland.ie</electronicMailAddress><onlineUrl>http://www.biodiversityireland.ie/</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Field observations</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>Records validated by the data provider of each record</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-02-02T18:33:28Z</dateStamp>
+      <citation>Colette O&apos; Flynn. National Invasive Species Database. National Biodiversity Data Centre. Occurrence dataset https://doi.org/10.15468/pkjqbk accessed via GBIF.org on 2021-02-02.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

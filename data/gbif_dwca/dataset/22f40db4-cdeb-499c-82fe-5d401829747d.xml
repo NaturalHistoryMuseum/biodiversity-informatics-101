@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="22f40db4-cdeb-499c-82fe-5d401829747d"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/uloykk</alternateIdentifier>
+        <alternateIdentifier>22f40db4-cdeb-499c-82fe-5d401829747d</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr692</alternateIdentifier>
+        <alternateIdentifier>a935fc15-987e-3e2c-a426-1bf8ede9b092</alternateIdentifier>
+    <title>Norfolk and Suffolk Broads Invertebrate Data 2007-2008</title>
+    <creator>
+<organizationName>Natural England</organizationName>    <address>
+<deliveryPoint>4th Floor, Foss House, Kings Pool, 1-2 Peasholme Green,</deliveryPoint><city>York</city><postalCode>YO1 7PX</postalCode><country>UNITED_KINGDOM</country>    </address>
+<phone>0300 060 3900</phone><onlineUrl>https://www.gov.uk/government/organisations/natural-england</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Natural England</organizationName>    <address>
+<deliveryPoint>4th Floor, Foss House, Kings Pool, 1-2 Peasholme Green,</deliveryPoint><city>York</city><postalCode>YO1 7PX</postalCode><country>UNITED_KINGDOM</country>    </address>
+<phone>0300 060 3900</phone><onlineUrl>https://www.gov.uk/government/organisations/natural-england</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2017-06-16
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>This dataset consists of invertebrate records from two years of survey work undertaken on a series of targeted sites within the Norfolk and Suffolk Broads. The survey work was undertaken in partnerhip, between NE and the Broads Authority as part of the Broads Fen Invertebrate Survey.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr692</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>The Norfolk and Suffolk Broads, England.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>1.468</westBoundingCoordinate>
+                      <eastBoundingCoordinate>1.63</eastBoundingCoordinate>
+                      <northBoundingCoordinate>52.771</northBoundingCoordinate>
+                      <southBoundingCoordinate>52.592</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2006-05-06
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2008-09-18
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <purpose>
+          <para>There had been no systematic survey for invertebrates in the Broads since the original EAFIS survey in the 1990s. This initiative aimed to not only collect invertebrates but also collect environmental data to allow for an analysis of the importance of hydrology, grazing and cutting. All the data were sampled using Common Standards Monitoring protocol and was analysed using ISIS.</para>
+      </purpose>
+      <contact>
+    <individualName>
+<givenName>Jon</givenName>          <surName>Webb</surName>
+    </individualName>
+<positionName>editor</positionName><electronicMailAddress>Jon.webb@naturalengland.org.uk</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>All the data were sampled using Common Standards Monitoring protocol and was analysed using ISIS. This protocol relied on standard timed searches, sweeps and water netting, repeated over a number of compartments. Selective groups of invertebrates were the main focus of the work. These included Coleoptera, Heteroptera, Diptera, Odonata and the Araneae.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>There is a high degree of confidence in the data. All the recorders are known specialists with plenty of experience. The team was lead by Dr Derek Lott.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-02-02T18:33:27Z</dateStamp>
+      <citation>Natural England (2017). Norfolk and Suffolk Broads Invertebrate Data 2007-2008. Occurrence dataset https://doi.org/10.15468/uloykk accessed via GBIF.org on 2021-02-02.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/NatEng_logo_New_Green-2016.jpg</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

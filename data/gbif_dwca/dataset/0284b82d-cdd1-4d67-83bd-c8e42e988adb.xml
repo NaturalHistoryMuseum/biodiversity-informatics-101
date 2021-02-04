@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="0284b82d-cdd1-4d67-83bd-c8e42e988adb"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/iou2ld</alternateIdentifier>
+        <alternateIdentifier>0284b82d-cdd1-4d67-83bd-c8e42e988adb</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr844</alternateIdentifier>
+        <alternateIdentifier>0550e0c2-2f34-3d9d-8b41-1936146e57d6</alternateIdentifier>
+    <title>Merseyside BioBank (unverified)</title>
+    <creator>
+<organizationName>Merseyside BioBank</organizationName>    <address>
+<deliveryPoint>Court Hey Park Roby Road</deliveryPoint><city>Knowsley</city><postalCode>L16 3NA</postalCode><country>UNITED_KINGDOM</country>    </address>
+<phone>01517 374150</phone><electronicMailAddress>info@merseysidebiobank.org.uk</electronicMailAddress><onlineUrl>http://www.merseysidebiobank.org.uk</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Merseyside BioBank</organizationName>    <address>
+<deliveryPoint>Court Hey Park Roby Road</deliveryPoint><city>Knowsley</city><postalCode>L16 3NA</postalCode><country>UNITED_KINGDOM</country>    </address>
+<phone>01517 374150</phone><electronicMailAddress>info@merseysidebiobank.org.uk</electronicMailAddress><onlineUrl>http://www.merseysidebiobank.org.uk</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2020-10-05
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>This dataset contains all records held by Merseyside BioBank as the Local Records Centre for North Merseyside, with the exception of those which have been submitted via the MBAN network. Records include all taxa which have not yet been through a formal verification process.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr844</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>These records are from all parts of North Merseyside (Sefton, St Helens, Knowsley and Liverpool) only.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-3.136</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-2.529</eastBoundingCoordinate>
+                      <northBoundingCoordinate>53.717</northBoundingCoordinate>
+                      <southBoundingCoordinate>53.358</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1859-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2020-04-06
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <contact>
+    <individualName>
+          <surName>Ben Deed</surName>
+    </individualName>
+<electronicMailAddress>Info@MerseysideBioBank.org.uk</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Most of these records were provided by data-suppliers in electronic formats mostly spreadsheets which we manipulated and then imported to Recorder 6 via the import tool. Others were captured by Merseyside BioBank staff and volunteers from a variety of paper sources.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>Confidence in this dataset is moderate. The records in this dataset have not yet been subject to formal verification. Once they have been, those records which do not pass verification will be removed. NBN Record Cleaner validation checks have been applied.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-02-02T18:33:31Z</dateStamp>
+      <citation>Merseyside BioBank (2020). Merseyside BioBank (unverified). Occurrence dataset https://doi.org/10.15468/iou2ld accessed via GBIF.org on 2021-02-02.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/MBB.jpg</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="cb4c3a5c-3b28-41a3-ace9-9fa7c60e0b31"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/3exspu</alternateIdentifier>
+        <alternateIdentifier>cb4c3a5c-3b28-41a3-ace9-9fa7c60e0b31</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr1247</alternateIdentifier>
+        <alternateIdentifier>d1fe7f22-d1b7-37cc-bb85-08c473099e1c</alternateIdentifier>
+    <title>Cumbria Non Native Invasive Species</title>
+    <creator>
+<organizationName>Cumbria Biodiversity Data Centre</organizationName>    <address>
+<deliveryPoint>Castle Street</deliveryPoint><administrativeArea>Carlisle</administrativeArea><postalCode>CA3 8TP</postalCode>    </address>
+<phone>01228 618732</phone><electronicMailAddress>info@cbdc.org.uk</electronicMailAddress><onlineUrl>http://www.cbdc.org.uk/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Cumbria Biodiversity Data Centre</organizationName>    <address>
+<deliveryPoint>Castle Street</deliveryPoint><administrativeArea>Carlisle</administrativeArea><postalCode>CA3 8TP</postalCode>    </address>
+<phone>01228 618732</phone><electronicMailAddress>info@cbdc.org.uk</electronicMailAddress><onlineUrl>http://www.cbdc.org.uk/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2017-06-16
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Species Observation records for a variety of taxon groups under Schedule 9 of the Wildlife and Countryside Act 1981 to which section 14 applies: Animals (Part1) and Plants (Part2)which are established in the wild. Does not include records of birds.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr1247</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Cumbria Administrative County consists of Vice-Counties 69 - Westmorland and 70 - Cumberland, and that part of VC 65 lying in Cumbria.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-3.631</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-2.233</eastBoundingCoordinate>
+                      <northBoundingCoordinate>55.157</northBoundingCoordinate>
+                      <southBoundingCoordinate>54.074</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1686-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2016-02-08
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <purpose>
+          <para>To establish and monitor distribution and status of Non Native Invasive Species in Cumbria.</para>
+      </purpose>
+      <contact>
+<electronicMailAddress>info@cbdc.org.uk</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Collation of existing studies together with surveys and casual sightings from local groups, natural history societies, professional ecologists, naturalists and members of the public. Consequently records relate to a wide variety of recording methods..</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>Records have usually been assessed by a county recorder/verifier. Original source and determination information as well as further record details are available from CBDC and should be checked before use in contentious circumstances. Comments on suspected erroneous records are welcomed.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-02-02T18:33:29Z</dateStamp>
+      <citation>Cumbria Biodiversity Data Centre (2017). Cumbria Non Native Invasive Species. Occurrence dataset https://doi.org/10.15468/3exspu accessed via GBIF.org on 2021-02-02.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/Cumbria-Biodiversity-Data-Centre-CMYK-Master-100x55.jpg</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

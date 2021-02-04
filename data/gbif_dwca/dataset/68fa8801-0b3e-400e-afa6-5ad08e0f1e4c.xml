@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="68fa8801-0b3e-400e-afa6-5ad08e0f1e4c"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/3kvvxb</alternateIdentifier>
+        <alternateIdentifier>68fa8801-0b3e-400e-afa6-5ad08e0f1e4c</alternateIdentifier>
+        <alternateIdentifier>https://registry.nbnatlas.org/public/show/dr695</alternateIdentifier>
+        <alternateIdentifier>86c5b0b7-8e50-32d6-a172-460d76301626</alternateIdentifier>
+    <title>Ladybird Survey of the UK</title>
+    <creator>
+<organizationName>Biological Records Centre</organizationName>    <address>
+<deliveryPoint>Biological Records Centre, CEH Wallingford, Maclean Building, Crowmarsh Gifford</deliveryPoint><city>Wallingford</city><administrativeArea>Oxfordshire</administrativeArea><postalCode>OX10 8BB</postalCode><country>UNITED_KINGDOM</country>    </address>
+<phone>01491 692 564</phone><electronicMailAddress>brc@ceh.ac.uk</electronicMailAddress><onlineUrl>http://www.brc.ac.uk/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Biological Records Centre</organizationName>    <address>
+<deliveryPoint>Biological Records Centre, CEH Wallingford, Maclean Building, Crowmarsh Gifford</deliveryPoint><city>Wallingford</city><administrativeArea>Oxfordshire</administrativeArea><postalCode>OX10 8BB</postalCode><country>UNITED_KINGDOM</country>    </address>
+<phone>01491 692 564</phone><electronicMailAddress>brc@ceh.ac.uk</electronicMailAddress><onlineUrl>http://www.brc.ac.uk/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>NBN Atlas</organizationName>    <address>
+<deliveryPoint>Unit F, 14 - 18 St Mary&apos;s Gate, Lace Market</deliveryPoint><city>Nottingham</city><administrativeArea>Nottinghamshire</administrativeArea><postalCode>NG1 1PF</postalCode><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>admin@nbnatlas.org</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2019-01-22
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Records for the UK Ladybird Survey, consisting of surveys for the harlequin ladybird, data from the London Natural History Society (collated by Paul Mabbott), and the UK Ladybird Survey.  Data have been collated by the Biological Records Centre.  Many people have provided data to both the Harlequin and the UK Ladybird Survey through the on-line surveys.  The data from both on-line surveys   (www.ladybird-survey.org and www.harlequin-survey.org) are collated within this dataset.  Many county recorders, natural history societies and other wildlife groups have contributed to the survey, with the help of Paul Mabbott (London Natural History Society), Nigel Cuming and Jerry Bowdrey (Essex Field Club/Colchester Museum) and Michael Majerus. Many entomologists have provided survey data and this information is available in the Survey section.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://registry.nbnatlas.org/public/show/dr695</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>The survey aims for UK coverage.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-10.211</westBoundingCoordinate>
+                      <eastBoundingCoordinate>1.77</eastBoundingCoordinate>
+                      <northBoundingCoordinate>60.456</northBoundingCoordinate>
+                      <southBoundingCoordinate>49.862</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1600-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2011-07-15
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <purpose>
+          <para>Records are collated in order to add to knowledge of this group, including distribution, population trends, autecology and phenology. In addition, the scheme works with all contributing recorders to raise the profile of the species group and its conservation. Sharing the data via NBN helps achieve these aims.</para>
+      </purpose>
+      <contact>
+    <individualName>
+<givenName>David</givenName>          <surName>Roy</surName>
+    </individualName>
+<electronicMailAddress>brc@ceh.ac.uk</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Direct observations by recorders.  Most data submitted using on-line recording forms on the project websites (www.harlequin-survey.org; www.ladybird-survey.org) or from Vice County Coleopterist co-ordinators.  Records have been verified by Paul Mabbott (Essex Field Club), Michael Majerus, Remy Ware, Laura-Jane Michie, Emma Rhule (all Cambridge University), Helen Roy (Centre for Ecology &amp; Hydrology), Peter Brown (Anglia Ruskin University), Richard Comont (Centre for Ecology &amp; Hydrology), or other affiliated entomologists, from specimens or photographs, or have been received from accredited recorders.  Records of 2-spot and 7-spot have not been verified.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>Data quality is good, but coverage for many species is sparse.   Coverage for the harlequin ladybird is complete, as known; media attention since the harlequin&apos;s arrival has increased the awareness of this species and ladybird recording.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-02-02T18:33:32Z</dateStamp>
+      <citation>Biological Records Centre (2019). Ladybird Survey of the UK. Occurrence dataset https://doi.org/10.15468/3kvvxb accessed via GBIF.org on 2021-02-02.</citation>
+              <resourceLogoUrl>https://registry.nbnatlas.org/data/dataProvider/BRC__OFFICIAL_logo.png</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>
