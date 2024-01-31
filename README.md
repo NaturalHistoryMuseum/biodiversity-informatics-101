@@ -3,7 +3,7 @@
 |     |     |
 | --- | --- |
 | MSc title        | Taxonomy and Biodiversity |
-| Document version | 2.0 (4/02/2021)          |
+| Document version | 3.0 (31/01/2024)          |
 | Author           | Ben Scott                 |
 | Duration         | 120 minutes                |
 
