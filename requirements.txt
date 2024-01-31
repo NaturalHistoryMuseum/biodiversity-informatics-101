@@ -1,0 +1,6 @@
+pandas==2.2.0
+geopandas==0.14.2
+# https://github.com/ResidentMario/geoplot/issues/289
+matplotlib<3.8
+geoplot==0.5.1
+keplergl==0.3.2
